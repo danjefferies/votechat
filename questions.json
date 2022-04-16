@@ -1,0 +1,77 @@
+{
+    "questions" : [
+    {
+        "id": "q1",
+        "question": "What do you want to talk about? I’ve got degrees 🎓🤓 in these subjects: \n 1- Am I ready to vote? ✉️ \n 2- What new laws mean for you 👀 \n Enter a number!",
+        "responses": {
+          "r1": "q2",
+          "r2": "q20",
+          "r3": "qerrorloop"
+          }
+    }, 
+    {
+        "id": "q2",
+        "question": "First things first... 🥶🎶 Are you registered to vote?",
+        "responses": {
+            "r1": "q3",
+            "r2": "q4",
+            "r3": "qerrorloop"
+        }
+    },
+    {
+        "id": "q3",
+        "question": "SWAG is forever! 😎 Are you planning to vote in person 🗳️ or mail in your ballot? 📮",
+        "responses": {
+            "r1": "static1",
+            "r2": "static2",
+            "r3": "Looks like there are some restrictions for mailing in your ballot in your state. Here's what you need to know:"
+        }
+    },
+    {
+        "id": "static1",
+        "statement": "To vote in person, you will need to bring an ID!",
+        "responses": {
+            "r1": "",
+            "r2": "",
+          "r3": "qerrorloop"
+        }
+    },
+    {
+        "id": "static2",
+        "question": "Great! Let's check if your state has mail-in voting...I'm thinking",
+        "responses": {
+            "r1": "",
+            "r2": "",
+          "r3": "qerrorloop"
+        }
+    },
+    {
+        "id": "q4",
+        "question": "Do you have one of these main forms of ID?",
+        "responses": {
+            "r1": "",
+            "r2": "",
+          "r3": "qerrorloop"
+        }
+    },
+    {
+        "id": "q20",
+        "question": "If your state...",
+        "responses": {
+            "r1": "",
+            "r2": "",
+            "r3": ""
+        }
+    },
+    {
+        "id": "qerrorloop",
+        "question": "Sorry, I didn't quite catch that...please re-enter a number",
+        "responses": {
+            "r1": "q1",
+            "r2": "q2",
+            "r3": "q3"
+        }
+    }
+
+]
+}
