@@ -1,0 +1,32 @@
+{
+  "name": "votechat",
+  "version": "1.0.0",
+  "description": "A voting rights chatbot for The Emancipator.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjefferies/votechat.git"
+  },
+  "keywords": [
+    "chatbot",
+    "voting"
+  ],
+  "author": "danica jefferies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danjefferies/votechat/issues"
+  },
+  "homepage": "https://github.com/danjefferies/votechat#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fastify": "^3.28.0",
+    "pkg": "^5.6.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
