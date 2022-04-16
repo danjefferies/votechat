@@ -15,6 +15,10 @@ let stateInfo = JSON.parse(rawdata)
 rawdata = fs.readFileSync('questions.json')
 let questions = JSON.parse(rawdata)
 
+// load the law sample data
+rawdata = fs.readFileSync('laws.json')
+let laws = JSON.parse(rawdata)
+
 
 
 
@@ -55,6 +59,7 @@ fastify.get("/state", function (request, reply) {
   reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
   reply.send(myData);  // send the data back to the server that asked
 });
+
 
 /**
  * Our API endpoint test to confirm state
@@ -114,6 +119,7 @@ fastify.get("/choices", function (request, reply) {
   reply.send(myData);  // send the data back to the server that asked
 });
 
+
 /**
  * Deal with a question response
  */
@@ -127,9 +133,9 @@ fastify.get("/handle-answer", function (request, reply) {
   console.log(response);
   console.log(questionID);
   let responseId;
-  if (response == "1" || "yes" || "y") {
+  if (response == "1") {
     responseId = 'r1';
-  } else if (response == "2" || "no" || "n") {
+  } else if (response == "2") {
       responseId = 'r2';
   } else {
       responseId = 'r3'
@@ -153,6 +159,74 @@ fastify.get("/handle-answer", function (request, reply) {
   reply.send(myData);  // send the data back to the server that asked
 });
 
+
+
+
+
+/**
+ * Deal with the user choosing the law path
+ */
+fastify.get("/laws", function (request, reply) {
+  
+  console.log(request.query); 
+  
+  let response = request.query['{last_user_msg}'];
+  let questionID = request.query['{user/questionID}[0]'];
+  
+  console.log(response);
+  console.log(questionID);
+  let responseId;
+  if (response == "1") {
+    responseId = 'r1';
+  } else if (response == "2") {
+      responseId = 'r2';
+  } else {
+      responseId = 'r3'
+  }
+  console.log(responseId)
+
+  // now that we have a question ID, grab the right question from the JSON file
+  let question = questions.questions.filter(q => q.id == questionID)[0];
+  let nextQuestionId = question.responses[responseId];
+  console.log(nextQuestionId);
+  let nextQuestionText = questions.questions.filter(q => q.id == nextQuestionId)[0]["question"]
+  
+  let myData = [{text: nextQuestionText}]; 
+
+  
+  console.log(myData);
+
+  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
+  reply.send(myData);  // send the data back to the server that asked
+});
+
+
+
+
+
+
+
+/**
+ * Deal with printing laws based off the laws sheet (temporarily, should be stateInfo)
+ */
+fastify.get("/print-laws", function (request, reply) {
+  
+  console.log(request.query); 
+  
+  let userState = request.query['{user/state}[0]'];
+  console.log(userState);
+  let requestedState = laws.laws.filter(l => l.state.toLowerCase() == userState)[0] 
+  console.log(requestedState);
+  
+  let myData = [{text: requestedState['laws_prep']}, {text: requestedState['restrictive_laws']},
+               {text: requestedState['expansive_laws']}]; 
+
+  
+  console.log(myData);
+
+  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
+  reply.send(myData);  // send the data back to the server that asked
+});
 
 
 
