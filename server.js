@@ -203,19 +203,16 @@ fastify.get("/laws", function (request, reply) {
 
 
 
-
-
-
 /**
- * Deal with printing laws based off the laws sheet (temporarily, should be stateInfo)
+ * Deal with sending new law information based on stateInfo sheet
  */
-fastify.get("/print-laws", function (request, reply) {
+ fastify.get("/print-laws", function (request, reply) {
   
   console.log(request.query); 
   
   let userState = request.query['{user/state}[0]'];
   console.log(userState);
-  let requestedState = laws.laws.filter(l => l.state.toLowerCase() == userState)[0] 
+  let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
   console.log(requestedState);
   
   let myData = [{text: requestedState['laws_prep']}, {text: requestedState['restrictive_laws']},
@@ -227,6 +224,7 @@ fastify.get("/print-laws", function (request, reply) {
   reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
   reply.send(myData);  // send the data back to the server that asked
 });
+
 
 
 
