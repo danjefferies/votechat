@@ -62,39 +62,6 @@ fastify.get("/state", function (request, reply) {
 
 
 /**
- * Our API endpoint test to confirm state
- *
- * Reply back some info 
- */
-/*
-fastify.get("/confirm", function (request, reply) {
-  
-  console.log(request.query); // click the logs button at the bottom of the screen to keep an eye on this
-
-  let stateFromUrl = request.query['{last_user_msg}'];  // parse out the ?variableFromBotsify=something from the URL
-  
-  // now that we have a state, grab the right info from the JSON file
-  let requestedState = stateInfo.states.filter(s => s.state.toLowerCase() == stateFromUrl)[0]
-  
-  //console.log(stateFromUrl);
-  // console.log(requestedState)
-  
-  let myData = [{  // relay back the info parsed from the url
-    text: "Looks like you're in ... "+ stateFromUrl
-  },
-  {
-    text: requestedState['description'],
-  }];
-  
-  console.log(myData);
-
-  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
-  reply.send(myData);  // send the data back to the server that asked
-});
-*/
-
-
-/**
  * Send back with the question text based on the questionID
  */
 fastify.get("/choices", function (request, reply) {
