@@ -128,48 +128,6 @@ fastify.get("/handle-answer", function (request, reply) {
 
 
 
-
-
-/**
- * Deal with the user choosing the law path
- */
-fastify.get("/laws", function (request, reply) {
-  
-  console.log(request.query); 
-  
-  let response = request.query['{last_user_msg}'];
-  let questionID = request.query['{user/questionID}[0]'];
-  
-  console.log(response);
-  console.log(questionID);
-  let responseId;
-  if (response == "1") {
-    responseId = 'r1';
-  } else if (response == "2") {
-      responseId = 'r2';
-  } else {
-      responseId = 'r3'
-  }
-  console.log(responseId)
-
-  // now that we have a question ID, grab the right question from the JSON file
-  let question = questions.questions.filter(q => q.id == questionID)[0];
-  let nextQuestionId = question.responses[responseId];
-  console.log(nextQuestionId);
-  let nextQuestionText = questions.questions.filter(q => q.id == nextQuestionId)[0]["question"]
-  
-  let myData = [{text: nextQuestionText}]; 
-
-  
-  console.log(myData);
-
-  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
-  reply.send(myData);  // send the data back to the server that asked
-});
-
-
-
-
 /**
  * Deal with sending new law information based on stateInfo sheet
  */
