@@ -23,35 +23,35 @@
         "question": "SWAG is forever! 😎 Would you like to (1) vote in person 🗳️ or (2) mail in your ballot? 📮",
         "responses": {
             "r1": "q4",
-            "r2": "q5",
+            "r2": "q6",
             "r3": ""
         }
     },
     {
         "id": "q4",
-        "question": "Do you have one of these main forms of ID? [then pulls from sheet]",
+        "question": "Do you have any of these forms of ID?",
         "responses": {
-            "r1": "q6",
-            "r2": "q7",
-            "r3": "qerrorloop"
+            "r1": "q5",
+            "r2": "q5",
+            "r3": ""
         }
     },
     {
         "id": "q5",
-        "question": "Great. In your state?",
+        "question": "Hey! Looks like there may be some laws that affect your vote. Wanna learn more?",
         "responses": {
-            "r1": "q8",
-            "r2": "q9",
-            "r3": "qerrorloop"
-      }
+            "r1": "q20",
+            "r2": "q30",
+            "r3": ""
+        }
     },
-          {
+    {
         "id": "q6",
-        "question": "Great. You're almost ready to vote. Do you ?",
+        "question": "Election Day is coming up 📆 This year, it’s on Tuesday, November 8!",
         "responses": {
-            "r1": "q10",
-            "r2": "q11",
-            "r3": "qerrorloop"
+            "r1": "q6",
+            "r2": "q6",
+            "r3": ""
       }
     },
     {
@@ -60,6 +60,15 @@
         "responses": {
             "r1": "q20",
             "r2": "q20",
+            "r3": ""
+        }
+    },
+    {
+        "id": "q30",
+        "question": "That's alright! You can 'Tok' more about it here! (LINK)",
+        "responses": {
+            "r1": "q30",
+            "r2": "q30",
             "r3": ""
         }
     },

@@ -129,7 +129,7 @@ fastify.get("/handle-answer", function (request, reply) {
 
 
 /**
- * Deal with sending new law information based on stateInfo sheet
+ * Deal with sending static law information based on stateInfo sheet (NO QUESTIONS, ALL CSV PRINT)
  */
  fastify.get("/print-laws", function (request, reply) {
   
@@ -140,8 +140,8 @@ fastify.get("/handle-answer", function (request, reply) {
   let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
   console.log(requestedState);
   
-  let myData = [{text: requestedState['laws_prep']}, {text: requestedState['restrictive_laws']},
-               {text: requestedState['expansive_laws']}]; 
+  let myData = [{text: requestedState['laws_prep']}, {text: requestedState['restrictive']},
+               {text: requestedState['expansive']}]; 
 
   
   console.log(myData);
@@ -149,6 +149,35 @@ fastify.get("/handle-answer", function (request, reply) {
   reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
   reply.send(myData);  // send the data back to the server that asked
 });
+
+
+
+
+/**
+ * Deal with sending mail-in information based on stateInfo sheet
+ */
+ fastify.get("/mail", function (request, reply) {
+  
+  console.log(request.query); 
+  
+  let userState = request.query['{user/state}[0]'];
+  console.log(userState);
+  let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
+  console.log(requestedState);
+  
+  let myData = [{text: requestedState['mail_voting']}, {text: requestedState['mail_in_excuse']},
+               {text: requestedState['mail_deadline']}]; 
+
+  
+  console.log(myData);
+
+  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
+  reply.send(myData);  // send the data back to the server that asked
+});
+
+
+
+
 
 
 
