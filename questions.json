@@ -47,10 +47,10 @@
     },
     {
         "id": "q6",
-        "question": "Election Day is coming up 📆 This year, it’s on Tuesday, November 8!",
+        "question": "Let's check if your state allows mail-in voting!",
         "responses": {
-            "r1": "q6",
-            "r2": "q6",
+            "r1": "q5",
+            "r2": "q5",
             "r3": ""
       }
     },

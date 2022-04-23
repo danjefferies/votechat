@@ -145,8 +145,6 @@ fastify.get("/handle-answer", function (request, reply) {
 });
 
 
-
-
 /**
  * Deal with sending mail-in information based on stateInfo sheet
  */
@@ -170,6 +168,95 @@ fastify.get("/handle-answer", function (request, reply) {
 });
 
 
+/**
+ * Deal with sending main-id information based on stateInfo sheet
+ */
+ fastify.get("/main-id", function (request, reply) {
+  
+  console.log(request.query); 
+  
+  let userState = request.query['{user/state}[0]'];
+  console.log(userState);
+  let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
+  console.log(requestedState);
+  
+  let myData = [{text: requestedState['main_id_forms']}];
+
+  
+  console.log(myData);
+
+  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
+  reply.send(myData);  // send the data back to the server that asked
+});
+
+
+
+/**
+ * Deal with sending main-id information based on stateInfo sheet
+ */
+ fastify.get("/alt-id", function (request, reply) {
+  
+  console.log(request.query); 
+  
+  let userState = request.query['{user/state}[0]'];
+  console.log(userState);
+  let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
+  console.log(requestedState);
+  
+  let myData = [{text: requestedState['alternative_id_forms']}, {text: requestedState['early_voting']}];
+
+  
+  console.log(myData);
+
+  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
+  reply.send(myData);  // send the data back to the server that asked
+});
+
+
+/**
+ * Deal with sending main-id information based on stateInfo sheet
+ */
+ fastify.get("/registration", function (request, reply) {
+  
+  console.log(request.query); 
+  
+  let userState = request.query['{user/state}[0]'];
+  console.log(userState);
+  let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
+  console.log(requestedState);
+  
+  let myData = [{text: requestedState['registration']}, {text: requestedState['registration_link']},
+               {text: requestedState['deadline_date']}];
+
+  
+  console.log(myData);
+
+  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
+  reply.send(myData);  // send the data back to the server that asked
+});
+
+
+
+/**
+ * Deal with sending main-id information based on stateInfo sheet
+ */
+ fastify.get("/early", function (request, reply) {
+  
+  console.log(request.query); 
+  
+  let userState = request.query['{user/state}[0]'];
+  console.log(userState);
+  let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
+  console.log(requestedState);
+  
+  let myData = [{text: requestedState['early_voting']}];
+
+  
+  console.log(myData);
+
+  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
+  reply.send(myData);  // send the data back to the server that asked
+});
 
 
 // Run the server and report out to the logs
