@@ -15,12 +15,6 @@ let stateInfo = JSON.parse(rawdata)
 rawdata = fs.readFileSync('questions.json')
 let questions = JSON.parse(rawdata)
 
-// load the law sample data
-rawdata = fs.readFileSync('laws.json')
-let laws = JSON.parse(rawdata)
-
-
-
 
 // Require the fastify framework and instantiate it
 const fastify = require("fastify")({
