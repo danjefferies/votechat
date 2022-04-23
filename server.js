@@ -170,31 +170,6 @@ fastify.get("/handle-answer", function (request, reply) {
 });
 
 
-/**
- * Deal with sending static main ID information based on stateInfo sheet
- */
- fastify.get("/main-id", function (request, reply) {
-  
-  console.log(request.query); 
-  
-  let userState = request.query['{user/state}[0]'];
-  console.log(userState);
-  let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
-  console.log(requestedState);
-  
-  let myData = [{text: requestedState['main_id_forms']}]; 
-
-  
-  console.log(myData);
-
-  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
-  reply.send(myData);  // send the data back to the server that asked
-});
-
-
-
-
-
 
 
 // Run the server and report out to the logs
