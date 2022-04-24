@@ -203,7 +203,7 @@ fastify.get("/handle-answer", function (request, reply) {
   let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
   console.log(requestedState);
   
-  let myData = [{text: requestedState['alternative_id_forms']}, {text: requestedState['early_voting']}];
+  let myData = [{text: requestedState['alternative_id_forms']}];
 
   
   console.log(myData);
