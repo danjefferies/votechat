@@ -29,7 +29,7 @@
     },
     {
         "id": "q4",
-        "question": "Do you have any of these forms of ID? (1) Yes (2) No",
+        "question": "Do you have any of these forms of ID? \n (1) Yes \n (2) No",
         "responses": {
             "r1": "q5",
             "r2": "q5",

@@ -403,7 +403,7 @@
       "early_voting": "Your state allows early voting, but hasn't set the dates yet!",
       "mail_voting": "Well that’s awkward… looks like there are some restrictions 🤨 for mailing in your ballot. Mailing is allowed...",
       "mail_in_excuse": "If you are:\n\n• Absent from the county\n• Physically unable, ill or have a disability\n• Religious beliefs prevent you from coming",
-      "mail_deadline": "We recommend requesting your ballot in person or by mail by Nov. 1, since they must be received by Election Day! 📩",
+      "mail_deadline": "We recommend requesting your ballot in person or by mail by Nov. 1, since it must be received by Election Day! 📩",
       "laws_prep": "Hurray! 🥳 Looks like there are some legislation that expanded your voting access. This means...",
       "restrictive": "There are no new restrictive laws in your state.",
       "expansive": "✅ Easier to vote early\n✅ Easier to vote by mail 📬\n✅ Greater access for voters with disabilities"
@@ -539,7 +539,7 @@
       "early_voting": "Your state does not allow early voting 😭",
       "mail_voting": "Well that’s awkward… looks like there are some restrictions 🤨 for mailing in your ballot. Mailing is allowed...",
       "mail_in_excuse": "If you are:\n\n• Absent from the county\n• Religious beliefs prevent you from coming\n• Physically unable, ill or have a disability\n• An employment obligation\n• In active military service",
-      "mail_deadline": "We recommend requesting your ballot in person or by mail by Nov. 1, since they must be received by Election Day! 📩",
+      "mail_deadline": "We recommend requesting your ballot in person or by mail by Nov. 1, since it must be received by Election Day! 📩",
       "laws_prep": "Woah! 😳 Looks like your state has a mix of expansive and restrictive laws. This means...",
       "restrictive": "❌ Harsher voter ID requirements\n❌ Harder to register to vote\n❌ More registration list clean-ups ✏️",
       "expansive": "✅ Easier for people in jail to vote"
@@ -624,7 +624,7 @@
       "early_voting": "Your state allows early voting! It's not official yet, but it will probably go from Oct. 24 to Nov. 7 💪",
       "mail_voting": "Your state allows mail-in voting! We love that for you 💌",
       "mail_in_excuse": "You do not need to provide an excuse and...",
-      "mail_deadline": "We recommend requesting your ballot in person or by mail by Nov. 1, since they must be postmarked by Nov. 7! 📩",
+      "mail_deadline": "We recommend requesting your ballot in person or by mail by Nov. 1, since it must be postmarked by Nov. 7! 📩",
       "laws_prep": "Hurray! 🥳 Looks like there are some legislation that expanded your voting access. This means...",
       "restrictive": "There are no new restrictive laws in your state.",
       "expansive": "✅ Easier to vote without a photo ID 📸  \n✅ Greater access for voters with disabilities  \n✅ Easier to register to vote"
@@ -777,7 +777,7 @@
       "early_voting": "Your state allows early, in-person voting! It goes from Sept. 23 to Nov. 7 💪",
       "mail_voting": "Your state allows mail-in voting! We love that for you 💌",
       "mail_in_excuse": "You do not need to provide an excuse and...",
-      "mail_deadline": "We recommend requesting your ballot in person or by mail by Nov. 1, since they must be received by Election Day! 📩",
+      "mail_deadline": "We recommend requesting your ballot in person or by mail by Nov. 1, since it must be received by Election Day! 📩",
       "laws_prep": "Looks like there's no new legislation in your state! 🦗 🍃",
       "restrictive": "We'll be keeping an eye on it for you.",
       "expansive": "I can still help you learn how to register though! 🤠"
@@ -862,7 +862,7 @@
       "early_voting": "Your state allows early voting! It goes from Sept. 29 to Nov. 7 💪",
       "mail_voting": "Your state is implementing automatic mail-in voting this year! 📨",
       "mail_in_excuse": "You do not need to provide an excuse and...",
-      "mail_deadline": "If you did not receive one, we recommend requesting your ballot by Nov. 1, since they must be received by Election Day! 📩",
+      "mail_deadline": "If you did not receive one, we recommend requesting your ballot by Nov. 1, since it must be received by Election Day! 📩",
       "laws_prep": "Hurray! 🥳 Looks like there are some legislation that expanded your voting access. This means...",
       "restrictive": "There are no new restrictive laws in your state.",
       "expansive": "✅ Increased access to polling places\n✅ More ballot drop-off locations 📩"
@@ -896,7 +896,7 @@
       "early_voting": "You live in an automatic mail-in state that still allows early voting! It starts on Oct. 21 💪",
       "mail_voting": "Your state has automatic mail-in voting! You're in safe hands. 📨",
       "mail_in_excuse": "You do not need to provide an excuse and...",
-      "mail_deadline": "If you did not receive one, we recommend requesting your ballot by Nov. 1, since they must be postmarked by Election Day and received by Nov. 13! 📩",
+      "mail_deadline": "If you did not receive one, we recommend requesting your ballot by Nov. 1, since it must be postmarked by Election Day and received by Nov. 13! 📩",
       "laws_prep": "Hurray! 🥳 Looks like there are some legislation that expanded your voting access. This means...",
       "restrictive": "There are no new restrictive laws in your state.",
       "expansive": "✅ Restore voting rights for those with past convictions"
