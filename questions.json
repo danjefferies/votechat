@@ -2,7 +2,7 @@
     "questions" : [
     {
         "id": "q1",
-        "question": "What do you want to talk about? I’ve got degrees 🎓🤓 in these subjects: \n (1) Am I ready to vote? ✉️ \n (2) What new laws mean for you 👀 \n Enter a number!",
+        "question": "What do you want to talk about? I’ve got degrees 🎓🤓 in these subjects: \n (1) Are you ready to vote? ✉️ \n (2) What new laws mean for you 👀 \n Enter a number!",
         "responses": {
           "r1": "q2",
           "r2": "q20",
@@ -29,7 +29,7 @@
     },
     {
         "id": "q4",
-        "question": "Do you have any of these forms of ID? (1) yes (2) no",
+        "question": "Do you have any of these forms of ID? (1) Yes (2) No",
         "responses": {
             "r1": "q5",
             "r2": "q5",
@@ -38,7 +38,7 @@
     },
     {
         "id": "q5",
-        "question": "Hey! Looks like there may be some laws that affect your vote. Type '1' to learn more!",
+        "question": "Hey! What if some laws changed? 😱 Type '1' to see how they might affect you!",
         "responses": {
             "r1": "q20",
             "r2": "q30",
