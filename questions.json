@@ -2,7 +2,7 @@
     "questions" : [
     {
         "id": "q1",
-        "question": "What do you want to talk about? I’ve got degrees 🎓🤓 in these subjects: \n (1) Are you ready to vote? ✉️ \n (2) What new laws mean for you 👀 \n \n Enter a number! You can also type “restart” at any point to go back to the beginning.",
+        "question": "What do you want to talk about? I’ve got degrees 🎓🤓 in these subjects: \n (1) Are you ready to vote? ✉️ \n (2) What new laws mean for you 👀 \n \nEnter a number! You can also type “restart” at any point to go back to the beginning.",
         "responses": {
           "r1": "q2",
           "r2": "q20",
@@ -15,7 +15,7 @@
         "responses": {
             "r1": "q3",
             "r2": "q4",
-            "r3": "qerrorloop2"
+            "r3": "qerrorloop"
         }
     },
     {
@@ -24,7 +24,7 @@
         "responses": {
             "r1": "q4",
             "r2": "q6",
-            "r3": "qerrorloop3"
+            "r3": "qerrorloop"
         }
     },
     {
@@ -33,7 +33,7 @@
         "responses": {
             "r1": "q5",
             "r2": "q5",
-            "r3": "qerrorloop4"
+            "r3": "qerrorloop"
         }
     },
     {
@@ -42,7 +42,7 @@
         "responses": {
             "r1": "q20",
             "r2": "q30",
-            "r3": "qerrorloop5"
+            "r3": "qerrorloop"
         }
     },
     {
@@ -51,7 +51,7 @@
         "responses": {
             "r1": "q5",
             "r2": "q5",
-            "r3": "q5"
+            "r3": ""
       }
     },
     {
@@ -79,42 +79,6 @@
             "r1": "q1",
             "r2": "q1",
             "r3": "q1"
-        }
-    },
-    {
-        "id": "qerrorloop2",
-        "question": "Sorry, I didn't quite catch that...please re-enter a number",
-        "responses": {
-            "r1": "q2",
-            "r2": "q2",
-            "r3": "q2"
-        }
-    },
-    {
-        "id": "qerrorloop3",
-        "question": "Sorry, I didn't quite catch that...please re-enter a number",
-        "responses": {
-            "r1": "q3",
-            "r2": "q3",
-            "r3": "q3"
-        }
-    },
-    {
-        "id": "qerrorloop4",
-        "question": "Sorry, I didn't quite catch that...please re-enter a number",
-        "responses": {
-            "r1": "q4",
-            "r2": "q4",
-            "r3": "q4"
-        }
-    },
-    {
-        "id": "qerrorloop5",
-        "question": "Sorry, I didn't quite catch that...please re-enter a number",
-        "responses": {
-            "r1": "q5",
-            "r2": "q5",
-            "r3": "q5"
         }
     }
 ]
