@@ -1,0 +1,5107 @@
+{ "options": [
+ {
+   "match": "alabama",
+   "other": "alabama"
+ },
+ {
+   "match": "alabama",
+   "other": "al"
+ },
+ {
+   "match": "alabama",
+   "other": "all"
+ },
+ {
+   "match": "alabama",
+   "other": "ala"
+ },
+ {
+   "match": "alabama",
+   "other": "alab"
+ },
+ {
+   "match": "alabama",
+   "other": "alaba"
+ },
+ {
+   "match": "alabama",
+   "other": "alabam"
+ },
+ {
+   "match": "alabama",
+   "other": "bama"
+ },
+ {
+   "match": "alabama",
+   "other": "labama"
+ },
+ {
+   "match": "alabama",
+   "other": "mo bamba"
+ },
+ {
+   "match": "alabama",
+   "other": "alabamma"
+ },
+ {
+   "match": "alabama",
+   "other": "allabamma"
+ },
+ {
+   "match": "alabama",
+   "other": "allabama"
+ },
+ {
+   "match": "alabama",
+   "other": "alabbama"
+ },
+ {
+   "match": "alabama",
+   "other": "alamaba"
+ },
+ {
+   "match": "alabama",
+   "other": "alebama"
+ },
+ {
+   "match": "alabama",
+   "other": "aluhbama"
+ },
+ {
+   "match": "alaska",
+   "other": "alaska"
+ },
+ {
+   "match": "alaska",
+   "other": "ak"
+ },
+ {
+   "match": "alaska",
+   "other": "akk"
+ },
+ {
+   "match": "alaska",
+   "other": "alas"
+ },
+ {
+   "match": "alaska",
+   "other": "alask"
+ },
+ {
+   "match": "alaska",
+   "other": "laska"
+ },
+ {
+   "match": "alaska",
+   "other": "alsaka"
+ },
+ {
+   "match": "alaska",
+   "other": "alsaska"
+ },
+ {
+   "match": "alaska",
+   "other": "alaaska"
+ },
+ {
+   "match": "alaska",
+   "other": "alasca"
+ },
+ {
+   "match": "alaska",
+   "other": "alsaca"
+ },
+ {
+   "match": "alaska",
+   "other": "alaskka"
+ },
+ {
+   "match": "alaska",
+   "other": "alasska"
+ },
+ {
+   "match": "alaska",
+   "other": "alasskka"
+ },
+ {
+   "match": "alaska",
+   "other": "alaaska"
+ },
+ {
+   "match": "american samoa",
+   "other": "american samoa"
+ },
+ {
+   "match": "american samoa",
+   "other": "as"
+ },
+ {
+   "match": "american samoa",
+   "other": "samoa"
+ },
+ {
+   "match": "american samoa",
+   "other": "samao"
+ },
+ {
+   "match": "american samoa",
+   "other": "samoan"
+ },
+ {
+   "match": "american samoa",
+   "other": "smores"
+ },
+ {
+   "match": "american samoa",
+   "other": "america samoa"
+ },
+ {
+   "match": "american samoa",
+   "other": "us samoa"
+ },
+ {
+   "match": "american samoa",
+   "other": "american samao"
+ },
+ {
+   "match": "american samoa",
+   "other": "amerika samoa"
+ },
+ {
+   "match": "american samoa",
+   "other": "amerikan samoa"
+ },
+ {
+   "match": "american samoa",
+   "other": "americansamoa"
+ },
+ {
+   "match": "arizona",
+   "other": "arizona"
+ },
+ {
+   "match": "arizona",
+   "other": "az"
+ },
+ {
+   "match": "arizona",
+   "other": "azz"
+ },
+ {
+   "match": "arizona",
+   "other": "ari"
+ },
+ {
+   "match": "arizona",
+   "other": "ariz"
+ },
+ {
+   "match": "arizona",
+   "other": "arizo"
+ },
+ {
+   "match": "arizona",
+   "other": "arizon"
+ },
+ {
+   "match": "arizona",
+   "other": "arzoni"
+ },
+ {
+   "match": "arizona",
+   "other": "arzon"
+ },
+ {
+   "match": "arizona",
+   "other": "arazona"
+ },
+ {
+   "match": "arizona",
+   "other": "arrazona"
+ },
+ {
+   "match": "arizona",
+   "other": "arizonia"
+ },
+ {
+   "match": "arizona",
+   "other": "arrizona"
+ },
+ {
+   "match": "arizona",
+   "other": "arzinoa"
+ },
+ {
+   "match": "arizona",
+   "other": "arzonia"
+ },
+ {
+   "match": "arizona",
+   "other": "arzona"
+ },
+ {
+   "match": "arizona",
+   "other": "arezona"
+ },
+ {
+   "match": "arizona",
+   "other": "airzona"
+ },
+ {
+   "match": "arizona",
+   "other": "airzon"
+ },
+ {
+   "match": "arizona",
+   "other": "arizonea"
+ },
+ {
+   "match": "arizona",
+   "other": "airzonia"
+ },
+ {
+   "match": "arizona",
+   "other": "arizzona"
+ },
+ {
+   "match": "arizona",
+   "other": "arizonna"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkansas"
+ },
+ {
+   "match": "arkansas",
+   "other": "ar"
+ },
+ {
+   "match": "arkansas",
+   "other": "arr"
+ },
+ {
+   "match": "arkansas",
+   "other": "ark"
+ },
+ {
+   "match": "arkansas",
+   "other": "arka"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkan"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkans"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkansa"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkansaz"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkansaw"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkansis"
+ },
+ {
+   "match": "arkansas",
+   "other": "arrkansas"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkkansas"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkinsaw"
+ },
+ {
+   "match": "arkansas",
+   "other": "arkinsas"
+ },
+ {
+   "match": "arkansas",
+   "other": "rkansas"
+ },
+ {
+   "match": "arkansas",
+   "other": "rkansaw"
+ },
+ {
+   "match": "california",
+   "other": "california"
+ },
+ {
+   "match": "california",
+   "other": "ca"
+ },
+ {
+   "match": "california",
+   "other": "caa"
+ },
+ {
+   "match": "california",
+   "other": "cal"
+ },
+ {
+   "match": "california",
+   "other": "cali"
+ },
+ {
+   "match": "california",
+   "other": "calif"
+ },
+ {
+   "match": "california",
+   "other": "califo"
+ },
+ {
+   "match": "california",
+   "other": "califor"
+ },
+ {
+   "match": "california",
+   "other": "californ"
+ },
+ {
+   "match": "california",
+   "other": "californi"
+ },
+ {
+   "match": "california",
+   "other": "alifornia"
+ },
+ {
+   "match": "california",
+   "other": "callifornia"
+ },
+ {
+   "match": "california",
+   "other": "californa"
+ },
+ {
+   "match": "california",
+   "other": "califronia"
+ },
+ {
+   "match": "california",
+   "other": "californnia"
+ },
+ {
+   "match": "california",
+   "other": "cauliflower"
+ },
+ {
+   "match": "california",
+   "other": "californya"
+ },
+ {
+   "match": "california",
+   "other": "socal"
+ },
+ {
+   "match": "california",
+   "other": "califona"
+ },
+ {
+   "match": "california",
+   "other": "califoirnia"
+ },
+ {
+   "match": "california",
+   "other": "califorbia"
+ },
+ {
+   "match": "california",
+   "other": "californias"
+ },
+ {
+   "match": "california",
+   "other": "califorrnia"
+ },
+ {
+   "match": "california",
+   "other": "calafornia"
+ },
+ {
+   "match": "california",
+   "other": "calafronia"
+ },
+ {
+   "match": "california",
+   "other": "callafronia"
+ },
+ {
+   "match": "california",
+   "other": "californina"
+ },
+ {
+   "match": "california",
+   "other": "califorina"
+ },
+ {
+   "match": "california",
+   "other": "calefornia"
+ },
+ {
+   "match": "california",
+   "other": "caliofrian"
+ },
+ {
+   "match": "california",
+   "other": "claifornia"
+ },
+ {
+   "match": "california",
+   "other": "califernia"
+ },
+ {
+   "match": "california",
+   "other": "calpurnia"
+ },
+ {
+   "match": "california",
+   "other": "califormia"
+ },
+ {
+   "match": "california",
+   "other": "californai"
+ },
+ {
+   "match": "colorado",
+   "other": "colorado"
+ },
+ {
+   "match": "colorado",
+   "other": "co"
+ },
+ {
+   "match": "colorado",
+   "other": "coo"
+ },
+ {
+   "match": "colorado",
+   "other": "col"
+ },
+ {
+   "match": "colorado",
+   "other": "colo"
+ },
+ {
+   "match": "colorado",
+   "other": "color"
+ },
+ {
+   "match": "colorado",
+   "other": "colora"
+ },
+ {
+   "match": "colorado",
+   "other": "colorad"
+ },
+ {
+   "match": "colorado",
+   "other": "olorado"
+ },
+ {
+   "match": "colorado",
+   "other": "kolorado"
+ },
+ {
+   "match": "colorado",
+   "other": "colarado"
+ },
+ {
+   "match": "colorado",
+   "other": "calorado"
+ },
+ {
+   "match": "colorado",
+   "other": "colardo"
+ },
+ {
+   "match": "colorado",
+   "other": "calarado"
+ },
+ {
+   "match": "colorado",
+   "other": "coloraido"
+ },
+ {
+   "match": "colorado",
+   "other": "coloradeo"
+ },
+ {
+   "match": "colorado",
+   "other": "coloradeo"
+ },
+ {
+   "match": "colorado",
+   "other": "commrad"
+ },
+ {
+   "match": "colorado",
+   "other": "collorado"
+ },
+ {
+   "match": "colorado",
+   "other": "callorado"
+ },
+ {
+   "match": "colorado",
+   "other": "colorrado"
+ },
+ {
+   "match": "colorado",
+   "other": "collo"
+ },
+ {
+   "match": "connecticut",
+   "other": "connecticut"
+ },
+ {
+   "match": "connecticut",
+   "other": "ct"
+ },
+ {
+   "match": "connecticut",
+   "other": "ctt"
+ },
+ {
+   "match": "connecticut",
+   "other": "con"
+ },
+ {
+   "match": "connecticut",
+   "other": "conn"
+ },
+ {
+   "match": "connecticut",
+   "other": "conne"
+ },
+ {
+   "match": "connecticut",
+   "other": "connec"
+ },
+ {
+   "match": "connecticut",
+   "other": "connect"
+ },
+ {
+   "match": "connecticut",
+   "other": "connecti"
+ },
+ {
+   "match": "connecticut",
+   "other": "connectic"
+ },
+ {
+   "match": "connecticut",
+   "other": "connecticu"
+ },
+ {
+   "match": "connecticut",
+   "other": "onnecticut"
+ },
+ {
+   "match": "connecticut",
+   "other": "conecticut"
+ },
+ {
+   "match": "connecticut",
+   "other": "conctact"
+ },
+ {
+   "match": "connecticut",
+   "other": "connectiuct"
+ },
+ {
+   "match": "connecticut",
+   "other": "connectacut"
+ },
+ {
+   "match": "connecticut",
+   "other": "cunnecitcut"
+ },
+ {
+   "match": "connecticut",
+   "other": "connecticutt"
+ },
+ {
+   "match": "connecticut",
+   "other": "conneticut"
+ },
+ {
+   "match": "connecticut",
+   "other": "connetticut"
+ },
+ {
+   "match": "connecticut",
+   "other": "conneticutt"
+ },
+ {
+   "match": "connecticut",
+   "other": "connetticutt"
+ },
+ {
+   "match": "connecticut",
+   "other": "connetti"
+ },
+ {
+   "match": "connecticut",
+   "other": "konneticut"
+ },
+ {
+   "match": "connecticut",
+   "other": "connectikut"
+ },
+ {
+   "match": "connecticut",
+   "other": "connekticut"
+ },
+ {
+   "match": "connecticut",
+   "other": "conniticut"
+ },
+ {
+   "match": "connecticut",
+   "other": "conniticutt"
+ },
+ {
+   "match": "delaware",
+   "other": "delaware"
+ },
+ {
+   "match": "delaware",
+   "other": "de"
+ },
+ {
+   "match": "delaware",
+   "other": "del"
+ },
+ {
+   "match": "delaware",
+   "other": "dela"
+ },
+ {
+   "match": "delaware",
+   "other": "delaw"
+ },
+ {
+   "match": "delaware",
+   "other": "delawa"
+ },
+ {
+   "match": "delaware",
+   "other": "delawar"
+ },
+ {
+   "match": "delaware",
+   "other": "elaware"
+ },
+ {
+   "match": "delaware",
+   "other": "delawere"
+ },
+ {
+   "match": "delaware",
+   "other": "dalaware"
+ },
+ {
+   "match": "delaware",
+   "other": "delewere"
+ },
+ {
+   "match": "delaware",
+   "other": "delwar"
+ },
+ {
+   "match": "delaware",
+   "other": "delewar"
+ },
+ {
+   "match": "delaware",
+   "other": "delewhere"
+ },
+ {
+   "match": "delaware",
+   "other": "dellewere"
+ },
+ {
+   "match": "delaware",
+   "other": "dellaware"
+ },
+ {
+   "match": "delaware",
+   "other": "delawarre"
+ },
+ {
+   "match": "district of columbia",
+   "other": "district of columbia"
+ },
+ {
+   "match": "district of columbia",
+   "other": "dc"
+ },
+ {
+   "match": "district of columbia",
+   "other": "washington dc"
+ },
+ {
+   "match": "district of columbia",
+   "other": "washingtondc"
+ },
+ {
+   "match": "district of columbia",
+   "other": "district"
+ },
+ {
+   "match": "district of columbia",
+   "other": "columbia"
+ },
+ {
+   "match": "district of columbia",
+   "other": "wash dc"
+ },
+ {
+   "match": "district of columbia",
+   "other": "dca"
+ },
+ {
+   "match": "district of columbia",
+   "other": "wdc"
+ },
+ {
+   "match": "district of columbia",
+   "other": "washintondc"
+ },
+ {
+   "match": "district of columbia",
+   "other": "wasington dc"
+ },
+ {
+   "match": "district of columbia",
+   "other": "district of colombia"
+ },
+ {
+   "match": "florida",
+   "other": "florida"
+ },
+ {
+   "match": "florida",
+   "other": "fl"
+ },
+ {
+   "match": "florida",
+   "other": "fll"
+ },
+ {
+   "match": "florida",
+   "other": "flo"
+ },
+ {
+   "match": "florida",
+   "other": "flor"
+ },
+ {
+   "match": "florida",
+   "other": "flori"
+ },
+ {
+   "match": "florida",
+   "other": "florid"
+ },
+ {
+   "match": "florida",
+   "other": "lorida"
+ },
+ {
+   "match": "florida",
+   "other": "florada"
+ },
+ {
+   "match": "florida",
+   "other": "flirida"
+ },
+ {
+   "match": "florida",
+   "other": "floridas"
+ },
+ {
+   "match": "florida",
+   "other": "floryda"
+ },
+ {
+   "match": "florida",
+   "other": "florda"
+ },
+ {
+   "match": "florida",
+   "other": "flordia"
+ },
+ {
+   "match": "florida",
+   "other": "folorda"
+ },
+ {
+   "match": "florida",
+   "other": "folorida"
+ },
+ {
+   "match": "florida",
+   "other": "falorda"
+ },
+ {
+   "match": "florida",
+   "other": "falorida"
+ },
+ {
+   "match": "florida",
+   "other": "forida"
+ },
+ {
+   "match": "florida",
+   "other": "flodia"
+ },
+ {
+   "match": "florida",
+   "other": "folordia"
+ },
+ {
+   "match": "georgia",
+   "other": "georgia"
+ },
+ {
+   "match": "georgia",
+   "other": "ga"
+ },
+ {
+   "match": "georgia",
+   "other": "gaa"
+ },
+ {
+   "match": "georgia",
+   "other": "atl"
+ },
+ {
+   "match": "georgia",
+   "other": "geo"
+ },
+ {
+   "match": "georgia",
+   "other": "geor"
+ },
+ {
+   "match": "georgia",
+   "other": "george"
+ },
+ {
+   "match": "georgia",
+   "other": "georgi"
+ },
+ {
+   "match": "georgia",
+   "other": "georg"
+ },
+ {
+   "match": "georgia",
+   "other": "goriga"
+ },
+ {
+   "match": "georgia",
+   "other": "georgeia"
+ },
+ {
+   "match": "georgia",
+   "other": "georgea"
+ },
+ {
+   "match": "georgia",
+   "other": "geeorge"
+ },
+ {
+   "match": "georgia",
+   "other": "gerogia"
+ },
+ {
+   "match": "georgia",
+   "other": "geogja"
+ },
+ {
+   "match": "georgia",
+   "other": "joja"
+ },
+ {
+   "match": "georgia",
+   "other": "georgias"
+ },
+ {
+   "match": "georgia",
+   "other": "goergia"
+ },
+ {
+   "match": "georgia",
+   "other": "goerigas"
+ },
+ {
+   "match": "georgia",
+   "other": "gorgina"
+ },
+ {
+   "match": "georgia",
+   "other": "gearge"
+ },
+ {
+   "match": "georgia",
+   "other": "georga"
+ },
+ {
+   "match": "georgia",
+   "other": "georjia"
+ },
+ {
+   "match": "georgia",
+   "other": "jeorgia"
+ },
+ {
+   "match": "georgia",
+   "other": "jeorjia"
+ },
+ {
+   "match": "guam",
+   "other": "guam"
+ },
+ {
+   "match": "guam",
+   "other": "gu"
+ },
+ {
+   "match": "guam",
+   "other": "guu"
+ },
+ {
+   "match": "guam",
+   "other": "gua"
+ },
+ {
+   "match": "guam",
+   "other": "guamm"
+ },
+ {
+   "match": "guam",
+   "other": "gum"
+ },
+ {
+   "match": "guam",
+   "other": "guaam"
+ },
+ {
+   "match": "guam",
+   "other": "gam"
+ },
+ {
+   "match": "guam",
+   "other": "quam"
+ },
+ {
+   "match": "guam",
+   "other": "gwam"
+ },
+ {
+   "match": "guam",
+   "other": "gwaum"
+ },
+ {
+   "match": "guam",
+   "other": "gwaam"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawaii"
+ },
+ {
+   "match": "hawaii",
+   "other": "hi"
+ },
+ {
+   "match": "hawaii",
+   "other": "hii"
+ },
+ {
+   "match": "hawaii",
+   "other": "haw"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawa"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawai"
+ },
+ {
+   "match": "hawaii",
+   "other": "howaii"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawii"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawaai"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawaaii"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawyi"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawiia"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawii"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawwai"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawwaii"
+ },
+ {
+   "match": "hawaii",
+   "other": "howiia"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawaiian"
+ },
+ {
+   "match": "hawaii",
+   "other": "howaiien"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawiaan"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawaain"
+ },
+ {
+   "match": "hawaii",
+   "other": "haha"
+ },
+ {
+   "match": "hawaii",
+   "other": "haiiwaii"
+ },
+ {
+   "match": "hawaii",
+   "other": "haiwai"
+ },
+ {
+   "match": "hawaii",
+   "other": "haiwaii"
+ },
+ {
+   "match": "hawaii",
+   "other": "hoiwai"
+ },
+ {
+   "match": "hawaii",
+   "other": "hawyee"
+ },
+ {
+   "match": "idaho",
+   "other": "idaho"
+ },
+ {
+   "match": "idaho",
+   "other": "id"
+ },
+ {
+   "match": "idaho",
+   "other": "idd"
+ },
+ {
+   "match": "idaho",
+   "other": "ida"
+ },
+ {
+   "match": "idaho",
+   "other": "idah"
+ },
+ {
+   "match": "idaho",
+   "other": "eyedaho"
+ },
+ {
+   "match": "idaho",
+   "other": "ideaho"
+ },
+ {
+   "match": "idaho",
+   "other": "idahoe"
+ },
+ {
+   "match": "idaho",
+   "other": "ideho"
+ },
+ {
+   "match": "idaho",
+   "other": "idhao"
+ },
+ {
+   "match": "idaho",
+   "other": "idhoa"
+ },
+ {
+   "match": "idaho",
+   "other": "idiho"
+ },
+ {
+   "match": "idaho",
+   "other": "daho"
+ },
+ {
+   "match": "illinois",
+   "other": "illinois"
+ },
+ {
+   "match": "illinois",
+   "other": "il"
+ },
+ {
+   "match": "illinois",
+   "other": "ill"
+ },
+ {
+   "match": "illinois",
+   "other": "illi"
+ },
+ {
+   "match": "illinois",
+   "other": "illin"
+ },
+ {
+   "match": "illinois",
+   "other": "illino"
+ },
+ {
+   "match": "illinois",
+   "other": "illinoi"
+ },
+ {
+   "match": "illinois",
+   "other": "ilinois"
+ },
+ {
+   "match": "illinois",
+   "other": "ilinoi"
+ },
+ {
+   "match": "illinois",
+   "other": "ilinoy"
+ },
+ {
+   "match": "illinois",
+   "other": "illionois"
+ },
+ {
+   "match": "illinois",
+   "other": "illionoi"
+ },
+ {
+   "match": "illinois",
+   "other": "illanoise"
+ },
+ {
+   "match": "illinois",
+   "other": "illanois"
+ },
+ {
+   "match": "illinois",
+   "other": "illianois"
+ },
+ {
+   "match": "illinois",
+   "other": "ilanoy"
+ },
+ {
+   "match": "illinois",
+   "other": "illionoy"
+ },
+ {
+   "match": "illinois",
+   "other": "illonois"
+ },
+ {
+   "match": "illinois",
+   "other": "illanoy"
+ },
+ {
+   "match": "indiana",
+   "other": "indiana"
+ },
+ {
+   "match": "indiana",
+   "other": "in"
+ },
+ {
+   "match": "indiana",
+   "other": "inn"
+ },
+ {
+   "match": "indiana",
+   "other": "ind"
+ },
+ {
+   "match": "indiana",
+   "other": "indi"
+ },
+ {
+   "match": "indiana",
+   "other": "indy"
+ },
+ {
+   "match": "indiana",
+   "other": "india"
+ },
+ {
+   "match": "indiana",
+   "other": "indian"
+ },
+ {
+   "match": "indiana",
+   "other": "im"
+ },
+ {
+   "match": "indiana",
+   "other": "inndiana"
+ },
+ {
+   "match": "indiana",
+   "other": "imdiana"
+ },
+ {
+   "match": "indiana",
+   "other": "indianan"
+ },
+ {
+   "match": "indiana",
+   "other": "indinia"
+ },
+ {
+   "match": "indiana",
+   "other": "indiannan"
+ },
+ {
+   "match": "indiana",
+   "other": "indinas"
+ },
+ {
+   "match": "indiana",
+   "other": "indiaina"
+ },
+ {
+   "match": "indiana",
+   "other": "indeana"
+ },
+ {
+   "match": "indiana",
+   "other": "imdeana"
+ },
+ {
+   "match": "indiana",
+   "other": "inndianan"
+ },
+ {
+   "match": "indiana",
+   "other": "inndeanna"
+ },
+ {
+   "match": "indiana",
+   "other": "indiianna"
+ },
+ {
+   "match": "indiana",
+   "other": "indeannan"
+ },
+ {
+   "match": "iowa",
+   "other": "iowa"
+ },
+ {
+   "match": "iowa",
+   "other": "ia"
+ },
+ {
+   "match": "iowa",
+   "other": "io"
+ },
+ {
+   "match": "iowa",
+   "other": "iw"
+ },
+ {
+   "match": "iowa",
+   "other": "iow"
+ },
+ {
+   "match": "iowa",
+   "other": "iowe"
+ },
+ {
+   "match": "iowa",
+   "other": "iawa"
+ },
+ {
+   "match": "iowa",
+   "other": "iowha"
+ },
+ {
+   "match": "iowa",
+   "other": "ioaw"
+ },
+ {
+   "match": "iowa",
+   "other": "iwoa"
+ },
+ {
+   "match": "iowa",
+   "other": "ieowar"
+ },
+ {
+   "match": "iowa",
+   "other": "ieowa"
+ },
+ {
+   "match": "iowa",
+   "other": "iowoa"
+ },
+ {
+   "match": "iowa",
+   "other": "iowow"
+ },
+ {
+   "match": "iowa",
+   "other": "iowhoa"
+ },
+ {
+   "match": "iowa",
+   "other": "iowao"
+ },
+ {
+   "match": "iowa",
+   "other": "iowwa"
+ },
+ {
+   "match": "iowa",
+   "other": "ioowa"
+ },
+ {
+   "match": "iowa",
+   "other": "iwowow"
+ },
+ {
+   "match": "iowa",
+   "other": "iwaoa"
+ },
+ {
+   "match": "kansas",
+   "other": "kansas"
+ },
+ {
+   "match": "kansas",
+   "other": "ks"
+ },
+ {
+   "match": "kansas",
+   "other": "ka"
+ },
+ {
+   "match": "kansas",
+   "other": "kn"
+ },
+ {
+   "match": "kansas",
+   "other": "kan"
+ },
+ {
+   "match": "kansas",
+   "other": "kansa"
+ },
+ {
+   "match": "kansas",
+   "other": "kansis"
+ },
+ {
+   "match": "kansas",
+   "other": "kanses"
+ },
+ {
+   "match": "kansas",
+   "other": "kanasa"
+ },
+ {
+   "match": "kansas",
+   "other": "kanssas"
+ },
+ {
+   "match": "kansas",
+   "other": "kanasas"
+ },
+ {
+   "match": "kansas",
+   "other": "kanasis"
+ },
+ {
+   "match": "kansas",
+   "other": "kanasas"
+ },
+ {
+   "match": "kansas",
+   "other": "kansans"
+ },
+ {
+   "match": "kansas",
+   "other": "kansens"
+ },
+ {
+   "match": "kansas",
+   "other": "kansansi"
+ },
+ {
+   "match": "kansas",
+   "other": "kanssas"
+ },
+ {
+   "match": "kentucky",
+   "other": "kentucky"
+ },
+ {
+   "match": "kentucky",
+   "other": "ky"
+ },
+ {
+   "match": "kentucky",
+   "other": "kyn"
+ },
+ {
+   "match": "kentucky",
+   "other": "ken"
+ },
+ {
+   "match": "kentucky",
+   "other": "kenn"
+ },
+ {
+   "match": "kentucky",
+   "other": "kentuck"
+ },
+ {
+   "match": "kentucky",
+   "other": "kentack"
+ },
+ {
+   "match": "kentucky",
+   "other": "kentucy"
+ },
+ {
+   "match": "kentucky",
+   "other": "kentacy"
+ },
+ {
+   "match": "kentucky",
+   "other": "kenucky"
+ },
+ {
+   "match": "kentucky",
+   "other": "kenacky"
+ },
+ {
+   "match": "kentucky",
+   "other": "kentcuky"
+ },
+ {
+   "match": "kentucky",
+   "other": "kentcaky"
+ },
+ {
+   "match": "kentucky",
+   "other": "kentuckie"
+ },
+ {
+   "match": "kentucky",
+   "other": "kentackie"
+ },
+ {
+   "match": "kentucky",
+   "other": "kuntucky"
+ },
+ {
+   "match": "kentucky",
+   "other": "kuntacky"
+ },
+ {
+   "match": "kentucky",
+   "other": "kuntuckie"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisiana"
+ },
+ {
+   "match": "louisiana",
+   "other": "la"
+ },
+ {
+   "match": "louisiana",
+   "other": "lo"
+ },
+ {
+   "match": "louisiana",
+   "other": "lou"
+ },
+ {
+   "match": "louisiana",
+   "other": "loa"
+ },
+ {
+   "match": "louisiana",
+   "other": "louis"
+ },
+ {
+   "match": "louisiana",
+   "other": "loais"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisa"
+ },
+ {
+   "match": "louisiana",
+   "other": "loaisa"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisan"
+ },
+ {
+   "match": "louisiana",
+   "other": "loaisan"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisana"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisiana"
+ },
+ {
+   "match": "louisiana",
+   "other": "loaisiana"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisianan"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisianna"
+ },
+ {
+   "match": "louisiana",
+   "other": "loaisianna"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisiannan"
+ },
+ {
+   "match": "louisiana",
+   "other": "louissianna"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisiaina"
+ },
+ {
+   "match": "louisiana",
+   "other": "loiusiana"
+ },
+ {
+   "match": "louisiana",
+   "other": "lousiana"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisiania"
+ },
+ {
+   "match": "louisiana",
+   "other": "lousiainna"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisianna"
+ },
+ {
+   "match": "louisiana",
+   "other": "louisaianna"
+ },
+ {
+   "match": "louisiana",
+   "other": "louiseiana"
+ },
+ {
+   "match": "maine",
+   "other": "maine"
+ },
+ {
+   "match": "maine",
+   "other": "me"
+ },
+ {
+   "match": "maine",
+   "other": "ma"
+ },
+ {
+   "match": "maine",
+   "other": "men"
+ },
+ {
+   "match": "maine",
+   "other": "man"
+ },
+ {
+   "match": "maine",
+   "other": "main"
+ },
+ {
+   "match": "maine",
+   "other": "mein"
+ },
+ {
+   "match": "maine",
+   "other": "mane"
+ },
+ {
+   "match": "maine",
+   "other": "maiin"
+ },
+ {
+   "match": "maine",
+   "other": "meiin"
+ },
+ {
+   "match": "maine",
+   "other": "mainn"
+ },
+ {
+   "match": "maine",
+   "other": "maiinn"
+ },
+ {
+   "match": "maine",
+   "other": "miane"
+ },
+ {
+   "match": "maine",
+   "other": "minne"
+ },
+ {
+   "match": "maine",
+   "other": "meian"
+ },
+ {
+   "match": "maine",
+   "other": "meiaan"
+ },
+ {
+   "match": "maine",
+   "other": "maaine"
+ },
+ {
+   "match": "maine",
+   "other": "mainne"
+ },
+ {
+   "match": "maryland",
+   "other": "maryland"
+ },
+ {
+   "match": "maryland",
+   "other": "md"
+ },
+ {
+   "match": "maryland",
+   "other": "mary"
+ },
+ {
+   "match": "maryland",
+   "other": "marry"
+ },
+ {
+   "match": "maryland",
+   "other": "merry"
+ },
+ {
+   "match": "maryland",
+   "other": "marryl"
+ },
+ {
+   "match": "maryland",
+   "other": "marylan"
+ },
+ {
+   "match": "maryland",
+   "other": "merylan"
+ },
+ {
+   "match": "maryland",
+   "other": "marrylan"
+ },
+ {
+   "match": "maryland",
+   "other": "merrylan"
+ },
+ {
+   "match": "maryland",
+   "other": "marrylane"
+ },
+ {
+   "match": "maryland",
+   "other": "marryland"
+ },
+ {
+   "match": "maryland",
+   "other": "mary land"
+ },
+ {
+   "match": "maryland",
+   "other": "marland"
+ },
+ {
+   "match": "maryland",
+   "other": "marlland"
+ },
+ {
+   "match": "maryland",
+   "other": "maralyn"
+ },
+ {
+   "match": "maryland",
+   "other": "maranda"
+ },
+ {
+   "match": "maryland",
+   "other": "mariland"
+ },
+ {
+   "match": "maryland",
+   "other": "moreand"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massachusetts"
+ },
+ {
+   "match": "massachusetts",
+   "other": "ma"
+ },
+ {
+   "match": "massachusetts",
+   "other": "mass"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massechusets"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massechussets"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massachuseets"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massachuseats"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massachuestees"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massachussetts"
+ },
+ {
+   "match": "massachusetts",
+   "other": "masachusetts"
+ },
+ {
+   "match": "massachusetts",
+   "other": "masachusets"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massachussets"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massachosatts"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massachousetts"
+ },
+ {
+   "match": "massachusetts",
+   "other": "massachusseets "
+ },
+ {
+   "match": "massachusetts",
+   "other": "moassachuseats"
+ },
+ {
+   "match": "michigan",
+   "other": "michigan"
+ },
+ {
+   "match": "michigan",
+   "other": "mi"
+ },
+ {
+   "match": "michigan",
+   "other": "michi"
+ },
+ {
+   "match": "michigan",
+   "other": "mishi"
+ },
+ {
+   "match": "michigan",
+   "other": "michian "
+ },
+ {
+   "match": "michigan",
+   "other": "michigen"
+ },
+ {
+   "match": "michigan",
+   "other": "mishigan"
+ },
+ {
+   "match": "michigan",
+   "other": "mishigen"
+ },
+ {
+   "match": "michigan",
+   "other": "michgan"
+ },
+ {
+   "match": "michigan",
+   "other": "michagin"
+ },
+ {
+   "match": "michigan",
+   "other": "michagain"
+ },
+ {
+   "match": "michigan",
+   "other": "michagan"
+ },
+ {
+   "match": "michigan",
+   "other": "michingan"
+ },
+ {
+   "match": "michigan",
+   "other": "michgain"
+ },
+ {
+   "match": "michigan",
+   "other": "machiegan"
+ },
+ {
+   "match": "michigan",
+   "other": "mishigan"
+ },
+ {
+   "match": "michigan",
+   "other": "meshegan"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnesota"
+ },
+ {
+   "match": "minnesota",
+   "other": "mn"
+ },
+ {
+   "match": "minnesota",
+   "other": "minn"
+ },
+ {
+   "match": "minnesota",
+   "other": "mine"
+ },
+ {
+   "match": "minnesota",
+   "other": "minne"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnes"
+ },
+ {
+   "match": "minnesota",
+   "other": "mineso"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnisoda"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnessotta"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnesot"
+ },
+ {
+   "match": "minnesota",
+   "other": "minesota"
+ },
+ {
+   "match": "minnesota",
+   "other": "minneosota"
+ },
+ {
+   "match": "minnesota",
+   "other": "minneosta"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnestoat"
+ },
+ {
+   "match": "minnesota",
+   "other": "mnnesota"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnesotta"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnetosta"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnnesota"
+ },
+ {
+   "match": "minnesota",
+   "other": "minosota"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnensota"
+ },
+ {
+   "match": "minnesota",
+   "other": "minasota"
+ },
+ {
+   "match": "minnesota",
+   "other": "minisotta"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnosota"
+ },
+ {
+   "match": "minnesota",
+   "other": "minnisota"
+ },
+ {
+   "match": "minnesota",
+   "other": "minneasota"
+ },
+ {
+   "match": "mississippi",
+   "other": "mississippi"
+ },
+ {
+   "match": "mississippi",
+   "other": "ms"
+ },
+ {
+   "match": "mississippi",
+   "other": "miss"
+ },
+ {
+   "match": "mississippi",
+   "other": "missi"
+ },
+ {
+   "match": "mississippi",
+   "other": "missisip"
+ },
+ {
+   "match": "mississippi",
+   "other": "missisipi"
+ },
+ {
+   "match": "mississippi",
+   "other": "mississipi"
+ },
+ {
+   "match": "mississippi",
+   "other": "missisipi"
+ },
+ {
+   "match": "mississippi",
+   "other": "missisippi"
+ },
+ {
+   "match": "mississippi",
+   "other": "mississipi"
+ },
+ {
+   "match": "mississippi",
+   "other": "misisippi"
+ },
+ {
+   "match": "mississippi",
+   "other": "missidsippi"
+ },
+ {
+   "match": "mississippi",
+   "other": "misssisipi"
+ },
+ {
+   "match": "mississippi",
+   "other": "misssissip"
+ },
+ {
+   "match": "mississippi",
+   "other": "missisipip"
+ },
+ {
+   "match": "mississippi",
+   "other": "missisipi"
+ },
+ {
+   "match": "missouri",
+   "other": "missouri"
+ },
+ {
+   "match": "missouri",
+   "other": "mo"
+ },
+ {
+   "match": "missouri",
+   "other": "misouri"
+ },
+ {
+   "match": "missouri",
+   "other": "misoori"
+ },
+ {
+   "match": "missouri",
+   "other": "missiouri"
+ },
+ {
+   "match": "missouri",
+   "other": "missouiri"
+ },
+ {
+   "match": "missouri",
+   "other": "misourie"
+ },
+ {
+   "match": "missouri",
+   "other": "missoury"
+ },
+ {
+   "match": "missouri",
+   "other": "missory"
+ },
+ {
+   "match": "missouri",
+   "other": "missoree"
+ },
+ {
+   "match": "missouri",
+   "other": "missioary"
+ },
+ {
+   "match": "missouri",
+   "other": "missoui"
+ },
+ {
+   "match": "missouri",
+   "other": "mousurri"
+ },
+ {
+   "match": "missouri",
+   "other": "misiry"
+ },
+ {
+   "match": "missouri",
+   "other": "missoure"
+ },
+ {
+   "match": "missouri",
+   "other": "missouries"
+ },
+ {
+   "match": "missouri",
+   "other": "misury"
+ },
+ {
+   "match": "missouri",
+   "other": "missori"
+ },
+ {
+   "match": "missouri",
+   "other": "missorry"
+ },
+ {
+   "match": "missouri",
+   "other": "missori"
+ },
+ {
+   "match": "missouri",
+   "other": "missosuri"
+ },
+ {
+   "match": "missouri",
+   "other": "missoun"
+ },
+ {
+   "match": "montana",
+   "other": "montana"
+ },
+ {
+   "match": "montana",
+   "other": "mn"
+ },
+ {
+   "match": "montana",
+   "other": "mont"
+ },
+ {
+   "match": "montana",
+   "other": "monta"
+ },
+ {
+   "match": "montana",
+   "other": "montane"
+ },
+ {
+   "match": "montana",
+   "other": "moontana"
+ },
+ {
+   "match": "montana",
+   "other": "montain"
+ },
+ {
+   "match": "montana",
+   "other": "mountain"
+ },
+ {
+   "match": "montana",
+   "other": "montanna"
+ },
+ {
+   "match": "montana",
+   "other": "mountana"
+ },
+ {
+   "match": "montana",
+   "other": "mountanna"
+ },
+ {
+   "match": "montana",
+   "other": "mantana"
+ },
+ {
+   "match": "montana",
+   "other": "mantanna"
+ },
+ {
+   "match": "montana",
+   "other": "mountnain"
+ },
+ {
+   "match": "montana",
+   "other": "mountan"
+ },
+ {
+   "match": "montana",
+   "other": "muntana"
+ },
+ {
+   "match": "montana",
+   "other": "muntant"
+ },
+ {
+   "match": "montana",
+   "other": "mentana"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebraska"
+ },
+ {
+   "match": "nebraska",
+   "other": "ne"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebra"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebrask"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebrascka"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebraksa"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebrasksa"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebrasaka"
+ },
+ {
+   "match": "nebraska",
+   "other": "nabraska"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebrasak"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebreska"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebarska"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebrska"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebraskan"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebrasks"
+ },
+ {
+   "match": "nebraska",
+   "other": "nabrasska"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebarssk"
+ },
+ {
+   "match": "nebraska",
+   "other": "nebrraska"
+ },
+ {
+   "match": "nevada",
+   "other": "nevada"
+ },
+ {
+   "match": "nevada",
+   "other": "nv"
+ },
+ {
+   "match": "nevada",
+   "other": "nev"
+ },
+ {
+   "match": "nevada",
+   "other": "nerv"
+ },
+ {
+   "match": "nevada",
+   "other": "nevad"
+ },
+ {
+   "match": "nevada",
+   "other": "neved"
+ },
+ {
+   "match": "nevada",
+   "other": "nevar"
+ },
+ {
+   "match": "nevada",
+   "other": "nervad"
+ },
+ {
+   "match": "nevada",
+   "other": "navada"
+ },
+ {
+   "match": "nevada",
+   "other": "nivana"
+ },
+ {
+   "match": "nevada",
+   "other": "nvidea"
+ },
+ {
+   "match": "nevada",
+   "other": "nevade"
+ },
+ {
+   "match": "nevada",
+   "other": "neveda"
+ },
+ {
+   "match": "nevada",
+   "other": "nersada"
+ },
+ {
+   "match": "nevada",
+   "other": "nervana"
+ },
+ {
+   "match": "nevada",
+   "other": "neveada"
+ },
+ {
+   "match": "nevada",
+   "other": "nevadaa"
+ },
+ {
+   "match": "nevada",
+   "other": "newvada"
+ },
+ {
+   "match": "nevada",
+   "other": "novody"
+ },
+ {
+   "match": "nevada",
+   "other": "nobvody"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hampshire"
+ },
+ {
+   "match": "new hampshire",
+   "other": "nh"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new h"
+ },
+ {
+   "match": "new hampshire",
+   "other": "neo h"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hamp"
+ },
+ {
+   "match": "new hampshire",
+   "other": "neo hamp"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hamps"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hampsha"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hampshar"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hampshare"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hamshire"
+ },
+ {
+   "match": "new hampshire",
+   "other": "newhampshire"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hanpshire"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hampshirite"
+ },
+ {
+   "match": "new hampshire",
+   "other": "new hanpshirite"
+ },
+ {
+   "match": "new hampshire",
+   "other": "neo hampshire"
+ },
+ {
+   "match": "new hampshire",
+   "other": "neohampshire"
+ },
+ {
+   "match": "new hampshire",
+   "other": "newhenpshire"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jersey"
+ },
+ {
+   "match": "new jersey",
+   "other": "nj"
+ },
+ {
+   "match": "new jersey",
+   "other": "new j"
+ },
+ {
+   "match": "new jersey",
+   "other": "n jersey"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jers"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jeez"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jerrs"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jersse"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jerseey"
+ },
+ {
+   "match": "new jersey",
+   "other": "newjersey"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jerseez"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jerssay "
+ },
+ {
+   "match": "new jersey",
+   "other": "new jarsey"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jarrsy"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jarsay"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jerzay"
+ },
+ {
+   "match": "new jersey",
+   "other": "new jersseie"
+ },
+ {
+   "match": "new jersey",
+   "other": "jersey"
+ },
+ {
+   "match": "new mexico",
+   "other": "new mexico"
+ },
+ {
+   "match": "new mexico",
+   "other": "nm"
+ },
+ {
+   "match": "new mexico",
+   "other": "nmm"
+ },
+ {
+   "match": "new mexico",
+   "other": "n mexico"
+ },
+ {
+   "match": "new mexico",
+   "other": "new m"
+ },
+ {
+   "match": "new mexico",
+   "other": "new me"
+ },
+ {
+   "match": "new mexico",
+   "other": "new mex"
+ },
+ {
+   "match": "new mexico",
+   "other": "new mexi"
+ },
+ {
+   "match": "new mexico",
+   "other": "new mexic"
+ },
+ {
+   "match": "new mexico",
+   "other": "newmexico"
+ },
+ {
+   "match": "new mexico",
+   "other": "neu mexico"
+ },
+ {
+   "match": "new mexico",
+   "other": "nee mexico"
+ },
+ {
+   "match": "new mexico",
+   "other": "neo mexico"
+ },
+ {
+   "match": "new mexico",
+   "other": "new mxico"
+ },
+ {
+   "match": "new mexico",
+   "other": "new mexco"
+ },
+ {
+   "match": "new mexico",
+   "other": "new meixcan"
+ },
+ {
+   "match": "new mexico",
+   "other": "new maximo "
+ },
+ {
+   "match": "new mexico",
+   "other": "mew mexico"
+ },
+ {
+   "match": "new mexico",
+   "other": "new mmxico"
+ },
+ {
+   "match": "new york",
+   "other": "new york"
+ },
+ {
+   "match": "new york",
+   "other": "ny"
+ },
+ {
+   "match": "new york",
+   "other": "nyy"
+ },
+ {
+   "match": "new york",
+   "other": "nyc"
+ },
+ {
+   "match": "new york",
+   "other": "n york"
+ },
+ {
+   "match": "new york",
+   "other": "new yo"
+ },
+ {
+   "match": "new york",
+   "other": "new yor"
+ },
+ {
+   "match": "new york",
+   "other": "new your"
+ },
+ {
+   "match": "new york",
+   "other": "new year"
+ },
+ {
+   "match": "new york",
+   "other": "new youk"
+ },
+ {
+   "match": "new york",
+   "other": "new yourk"
+ },
+ {
+   "match": "new york",
+   "other": "newyork"
+ },
+ {
+   "match": "new york",
+   "other": "new yeark"
+ },
+ {
+   "match": "new york",
+   "other": "neo yor"
+ },
+ {
+   "match": "new york",
+   "other": "new your"
+ },
+ {
+   "match": "new york",
+   "other": "neo year"
+ },
+ {
+   "match": "new york",
+   "other": "neo youk"
+ },
+ {
+   "match": "new york",
+   "other": "neo yourk"
+ },
+ {
+   "match": "new york",
+   "other": "ew york"
+ },
+ {
+   "match": "north carolina",
+   "other": "north carolina"
+ },
+ {
+   "match": "north carolina",
+   "other": "nc"
+ },
+ {
+   "match": "north carolina",
+   "other": "ncc"
+ },
+ {
+   "match": "north carolina",
+   "other": "n carolina"
+ },
+ {
+   "match": "north carolina",
+   "other": "ncarolina"
+ },
+ {
+   "match": "north carolina",
+   "other": "north c"
+ },
+ {
+   "match": "north carolina",
+   "other": "north ca"
+ },
+ {
+   "match": "north carolina",
+   "other": "north car"
+ },
+ {
+   "match": "north carolina",
+   "other": "north caro"
+ },
+ {
+   "match": "north carolina",
+   "other": "north carol"
+ },
+ {
+   "match": "north carolina",
+   "other": "north caroli"
+ },
+ {
+   "match": "north carolina",
+   "other": "northcarolina"
+ },
+ {
+   "match": "north carolina",
+   "other": "north caroline"
+ },
+ {
+   "match": "north carolina",
+   "other": "north caroleina"
+ },
+ {
+   "match": "north carolina",
+   "other": "nortf carolina"
+ },
+ {
+   "match": "north carolina",
+   "other": "nortf caroline"
+ },
+ {
+   "match": "north carolina",
+   "other": "nortf croleina"
+ },
+ {
+   "match": "north carolina",
+   "other": "northy crolina"
+ },
+ {
+   "match": "north carolina",
+   "other": "north caroolina"
+ },
+ {
+   "match": "north carolina",
+   "other": "north carollina"
+ },
+ {
+   "match": "north carolina",
+   "other": "north cerolina"
+ },
+ {
+   "match": "north carolina",
+   "other": "north karolina"
+ },
+ {
+   "match": "north dakota",
+   "other": "north dakota"
+ },
+ {
+   "match": "north dakota",
+   "other": "nd"
+ },
+ {
+   "match": "north dakota",
+   "other": "ndd"
+ },
+ {
+   "match": "north dakota",
+   "other": "n dakota"
+ },
+ {
+   "match": "north dakota",
+   "other": "ndakota"
+ },
+ {
+   "match": "north dakota",
+   "other": "north d"
+ },
+ {
+   "match": "north dakota",
+   "other": "north da"
+ },
+ {
+   "match": "north dakota",
+   "other": "north dak"
+ },
+ {
+   "match": "north dakota",
+   "other": "north dako"
+ },
+ {
+   "match": "north dakota",
+   "other": "north dakot"
+ },
+ {
+   "match": "north dakota",
+   "other": "northdakota"
+ },
+ {
+   "match": "north dakota",
+   "other": "north dakouta"
+ },
+ {
+   "match": "north dakota",
+   "other": "north dakotan"
+ },
+ {
+   "match": "north dakota",
+   "other": "noth dakota"
+ },
+ {
+   "match": "north dakota",
+   "other": "northy dekota"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern mariana islands"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "mp"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "npm"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "nmi"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "n mariana"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "mariana island"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "marianaisland"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "mariana islands"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "marianaislands"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "north m"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern m"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern maria "
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern mariana island"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern maria island"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northmarianaisland"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northmarianaislands"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northernmarianaislands"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "noth mariana islands"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern marianna island"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern mariana iland"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "north marinaan islands"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern marianna iand"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern mmariana islands"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern marioana islands"
+ },
+ {
+   "match": "northern mariana islands",
+   "other": "northern maarioana islands"
+ },
+ {
+   "match": "ohio",
+   "other": "ohio"
+ },
+ {
+   "match": "ohio",
+   "other": "oh"
+ },
+ {
+   "match": "ohio",
+   "other": "ohh"
+ },
+ {
+   "match": "ohio",
+   "other": "ohi"
+ },
+ {
+   "match": "ohio",
+   "other": "oho"
+ },
+ {
+   "match": "ohio",
+   "other": "ohiyo"
+ },
+ {
+   "match": "ohio",
+   "other": "oiho"
+ },
+ {
+   "match": "ohio",
+   "other": "ohhioh"
+ },
+ {
+   "match": "ohio",
+   "other": "ohhio"
+ },
+ {
+   "match": "ohio",
+   "other": "ohyo"
+ },
+ {
+   "match": "ohio",
+   "other": "oohio"
+ },
+ {
+   "match": "ohio",
+   "other": "hio"
+ },
+ {
+   "match": "ohio",
+   "other": "oih"
+ },
+ {
+   "match": "ohio",
+   "other": "ohao"
+ },
+ {
+   "match": "ohio",
+   "other": "ohios"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "ok"
+ },
+ {
+   "match": "oklahoma",
+   "other": "okk"
+ },
+ {
+   "match": "oklahoma",
+   "other": "okl"
+ },
+ {
+   "match": "oklahoma",
+   "other": "okla"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklah"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklaho"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahom"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahomea"
+ },
+ {
+   "match": "oklahoma",
+   "other": "olkahoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "okalahoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklhoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "okhlma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "okahoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "okalhoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahomas"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklhoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklohoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklamhoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahama"
+ },
+ {
+   "match": "oklahoma",
+   "other": "fuksuhima"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahoman"
+ },
+ {
+   "match": "oklahoma",
+   "other": "okalhoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahome"
+ },
+ {
+   "match": "oklahoma",
+   "other": "okahoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahom"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahoam"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahima"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklanhoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahaoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahomia"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklehoma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahma"
+ },
+ {
+   "match": "oklahoma",
+   "other": "mobilehome"
+ },
+ {
+   "match": "oklahoma",
+   "other": "oklahmoma"
+ },
+ {
+   "match": "oregon",
+   "other": "oregon"
+ },
+ {
+   "match": "oregon",
+   "other": "or"
+ },
+ {
+   "match": "oregon",
+   "other": "orr"
+ },
+ {
+   "match": "oregon",
+   "other": "ore"
+ },
+ {
+   "match": "oregon",
+   "other": "oreg"
+ },
+ {
+   "match": "oregon",
+   "other": "orego"
+ },
+ {
+   "match": "oregon",
+   "other": "oragon"
+ },
+ {
+   "match": "oregon",
+   "other": "orgon"
+ },
+ {
+   "match": "oregon",
+   "other": "origon"
+ },
+ {
+   "match": "oregon",
+   "other": "origan"
+ },
+ {
+   "match": "oregon",
+   "other": "organ"
+ },
+ {
+   "match": "oregon",
+   "other": "oragin"
+ },
+ {
+   "match": "oregon",
+   "other": "oregano"
+ },
+ {
+   "match": "oregon",
+   "other": "orgeon"
+ },
+ {
+   "match": "oregon",
+   "other": "orenge"
+ },
+ {
+   "match": "oregon",
+   "other": "oregono"
+ },
+ {
+   "match": "oregon",
+   "other": "orgion"
+ },
+ {
+   "match": "oregon",
+   "other": "orgean"
+ },
+ {
+   "match": "oregon",
+   "other": "oregan"
+ },
+ {
+   "match": "oregon",
+   "other": "orgin"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pa"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "paa"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pe"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pen"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "penn"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "penns"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsy"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsyl"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylv"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylva"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvan"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvani"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pensylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "penssylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsilvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pensylvanna"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pensylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pensylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennnsylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pensylviania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennyslvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsavania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "penssylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvaina"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsyvannia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "penslyvannia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvanbia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvnia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennselvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsuylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsilvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennysylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennslvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylviana"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennslyvanian"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvenia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvaini"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvanias"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pensulvannia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvainna"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pensavania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennslyvannia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvana"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pensyvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsalvaina"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylavnia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "penneylvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pensylvannia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvanie"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvainia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylviania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsyvlania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvaia"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvani"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pennsylvina"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "pencilvania"
+ },
+ {
+   "match": "pennsylvania",
+   "other": "penncilvania"
+ },
+ {
+   "match": "puerto rico",
+   "other": "puerto rico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "pr"
+ },
+ {
+   "match": "puerto rico",
+   "other": "prr"
+ },
+ {
+   "match": "puerto rico",
+   "other": "prc"
+ },
+ {
+   "match": "puerto rico",
+   "other": "pue"
+ },
+ {
+   "match": "puerto rico",
+   "other": "puer"
+ },
+ {
+   "match": "puerto rico",
+   "other": "puerto"
+ },
+ {
+   "match": "puerto rico",
+   "other": "puertorico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "porter rico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "pueto rico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "puedo rico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "part rico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "poterrico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "poter rico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "porter rico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "pertrico"
+ },
+ {
+   "match": "puerto rico",
+   "other": "part rigo"
+ },
+ {
+   "match": "puerto rico",
+   "other": "poterrigo"
+ },
+ {
+   "match": "puerto rico",
+   "other": "poter rigo"
+ },
+ {
+   "match": "puerto rico",
+   "other": "porter rigo"
+ },
+ {
+   "match": "rhode island",
+   "other": "rhode island"
+ },
+ {
+   "match": "rhode island",
+   "other": "ri"
+ },
+ {
+   "match": "rhode island",
+   "other": "rii"
+ },
+ {
+   "match": "rhode island",
+   "other": "rho"
+ },
+ {
+   "match": "rhode island",
+   "other": "rhod"
+ },
+ {
+   "match": "rhode island",
+   "other": "rhode"
+ },
+ {
+   "match": "rhode island",
+   "other": "rhodeisland"
+ },
+ {
+   "match": "rhode island",
+   "other": "road island"
+ },
+ {
+   "match": "rhode island",
+   "other": "rode island"
+ },
+ {
+   "match": "rhode island",
+   "other": "rhod island"
+ },
+ {
+   "match": "rhode island",
+   "other": "rhodisland"
+ },
+ {
+   "match": "rhode island",
+   "other": "rodeisland"
+ },
+ {
+   "match": "rhode island",
+   "other": "roadisland"
+ },
+ {
+   "match": "rhode island",
+   "other": "rhosdiland"
+ },
+ {
+   "match": "rhode island",
+   "other": "rhod islend"
+ },
+ {
+   "match": "rhode island",
+   "other": "rhodislend"
+ },
+ {
+   "match": "rhode island",
+   "other": "rode islend"
+ },
+ {
+   "match": "rhode island",
+   "other": "rodeislend"
+ },
+ {
+   "match": "south carolina",
+   "other": "south carolina"
+ },
+ {
+   "match": "south carolina",
+   "other": "sc"
+ },
+ {
+   "match": "south carolina",
+   "other": "scc"
+ },
+ {
+   "match": "south carolina",
+   "other": "scarolina"
+ },
+ {
+   "match": "south carolina",
+   "other": "s carolina"
+ },
+ {
+   "match": "south carolina",
+   "other": "south caralina"
+ },
+ {
+   "match": "south carolina",
+   "other": "southcarolina"
+ },
+ {
+   "match": "south carolina",
+   "other": "sout carolin"
+ },
+ {
+   "match": "south carolina",
+   "other": "south carolna"
+ },
+ {
+   "match": "south carolina",
+   "other": "souh carolia"
+ },
+ {
+   "match": "south carolina",
+   "other": "south carolina"
+ },
+ {
+   "match": "south carolina",
+   "other": "southcarolna"
+ },
+ {
+   "match": "south carolina",
+   "other": "south caralino"
+ },
+ {
+   "match": "south carolina",
+   "other": "south carelina"
+ },
+ {
+   "match": "south carolina",
+   "other": "south carelino"
+ },
+ {
+   "match": "south carolina",
+   "other": "south carilina"
+ },
+ {
+   "match": "south carolina",
+   "other": "south carilino"
+ },
+ {
+   "match": "south carolina",
+   "other": "south carili"
+ },
+ {
+   "match": "south carolina",
+   "other": "south coralina"
+ },
+ {
+   "match": "south carolina",
+   "other": "south caroli"
+ },
+ {
+   "match": "south dakota",
+   "other": "south dakota"
+ },
+ {
+   "match": "south dakota",
+   "other": "sd"
+ },
+ {
+   "match": "south dakota",
+   "other": "sdd"
+ },
+ {
+   "match": "south dakota",
+   "other": "s dakota"
+ },
+ {
+   "match": "south dakota",
+   "other": "sdakota"
+ },
+ {
+   "match": "south dakota",
+   "other": "south dekota"
+ },
+ {
+   "match": "south dakota",
+   "other": "southdakota"
+ },
+ {
+   "match": "south dakota",
+   "other": "southdekota"
+ },
+ {
+   "match": "south dakota",
+   "other": "south dekoda"
+ },
+ {
+   "match": "south dakota",
+   "other": "south datoka"
+ },
+ {
+   "match": "south dakota",
+   "other": "southdatoka"
+ },
+ {
+   "match": "south dakota",
+   "other": "south dekota"
+ },
+ {
+   "match": "south dakota",
+   "other": "southdekota"
+ },
+ {
+   "match": "south dakota",
+   "other": "south dakote"
+ },
+ {
+   "match": "south dakota",
+   "other": "southdakote"
+ },
+ {
+   "match": "south dakota",
+   "other": "south daketa"
+ },
+ {
+   "match": "south dakota",
+   "other": "south dokata"
+ },
+ {
+   "match": "south dakota",
+   "other": "south dokato"
+ },
+ {
+   "match": "south dakota",
+   "other": "southdakeda"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennessee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tn"
+ },
+ {
+   "match": "tennessee",
+   "other": "tnn"
+ },
+ {
+   "match": "tennessee",
+   "other": "ten"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenesse"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenn"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenne"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennes"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenneessee"
+ },
+ {
+   "match": "tennessee",
+   "other": "temnnessee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennasse"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenisee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennaesee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tessnesee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennissee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennesssee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenniss"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennesseee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennisee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennesee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenessee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennessy"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenneesee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennessie"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenesee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennese"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennise"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennisse"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenassee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennessese"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennssee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennesse"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennassee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenese"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennasee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenness"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenneseee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tennessea"
+ },
+ {
+   "match": "tennessee",
+   "other": "teneesee"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenneesse"
+ },
+ {
+   "match": "tennessee",
+   "other": "tenneese"
+ },
+ {
+   "match": "tennessee",
+   "other": "tensee"
+ },
+ {
+   "match": "texas",
+   "other": "texas"
+ },
+ {
+   "match": "texas",
+   "other": "tx"
+ },
+ {
+   "match": "texas",
+   "other": "tex"
+ },
+ {
+   "match": "texas",
+   "other": "texa"
+ },
+ {
+   "match": "texas",
+   "other": "taxis"
+ },
+ {
+   "match": "texas",
+   "other": "txx"
+ },
+ {
+   "match": "texas",
+   "other": "teaxas"
+ },
+ {
+   "match": "texas",
+   "other": "toxis"
+ },
+ {
+   "match": "texas",
+   "other": "taxas"
+ },
+ {
+   "match": "texas",
+   "other": "texian"
+ },
+ {
+   "match": "texas",
+   "other": "taxiis"
+ },
+ {
+   "match": "texas",
+   "other": "texasw"
+ },
+ {
+   "match": "texas",
+   "other": "teaxs"
+ },
+ {
+   "match": "texas",
+   "other": "texs"
+ },
+ {
+   "match": "texas",
+   "other": "texes"
+ },
+ {
+   "match": "texas",
+   "other": "txas"
+ },
+ {
+   "match": "texas",
+   "other": "teaxes"
+ },
+ {
+   "match": "texas",
+   "other": "texis"
+ },
+ {
+   "match": "texas",
+   "other": "texsas"
+ },
+ {
+   "match": "texas",
+   "other": "taxess"
+ },
+ {
+   "match": "texas",
+   "other": "texsa"
+ },
+ {
+   "match": "texas",
+   "other": "texasa"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "u.s virgin islands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "vi"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "usvi"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "us vi"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "virgin"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "virgin island"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "virginisland"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "virgin islands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "virginislands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "virgins island"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "us virgins island"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "usvirginislands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "us virgin islands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "us virginislands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "u.s virgin islands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "u.s virginislands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "u.s virginislands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "us. virgin islands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "us. virginislands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "us. virginislands"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "u.s virgin island"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "u.s. virgin island"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "u.s virgin island"
+ },
+ {
+   "match": "u.s virgin islands",
+   "other": "us virginisland"
+ },
+ {
+   "match": "utah",
+   "other": "utah"
+ },
+ {
+   "match": "utah",
+   "other": "ut"
+ },
+ {
+   "match": "utah",
+   "other": "utt"
+ },
+ {
+   "match": "utah",
+   "other": "uta"
+ },
+ {
+   "match": "utah",
+   "other": "ute"
+ },
+ {
+   "match": "utah",
+   "other": "uttar"
+ },
+ {
+   "match": "utah",
+   "other": "utes"
+ },
+ {
+   "match": "utah",
+   "other": "utua"
+ },
+ {
+   "match": "utah",
+   "other": "yoota"
+ },
+ {
+   "match": "utah",
+   "other": "yuta"
+ },
+ {
+   "match": "utah",
+   "other": "yutah"
+ },
+ {
+   "match": "utah",
+   "other": "uhta"
+ },
+ {
+   "match": "utah",
+   "other": "uhtah"
+ },
+ {
+   "match": "vermont",
+   "other": "vermont"
+ },
+ {
+   "match": "vermont",
+   "other": "vt"
+ },
+ {
+   "match": "vermont",
+   "other": "vtt"
+ },
+ {
+   "match": "vermont",
+   "other": "ver"
+ },
+ {
+   "match": "vermont",
+   "other": "verm"
+ },
+ {
+   "match": "vermont",
+   "other": "vermount"
+ },
+ {
+   "match": "vermont",
+   "other": "vermo"
+ },
+ {
+   "match": "vermont",
+   "other": "vermon"
+ },
+ {
+   "match": "vermont",
+   "other": "verment"
+ },
+ {
+   "match": "vermont",
+   "other": "veament"
+ },
+ {
+   "match": "vermont",
+   "other": "wernot"
+ },
+ {
+   "match": "vermont",
+   "other": "varment"
+ },
+ {
+   "match": "vermont",
+   "other": "vermiont"
+ },
+ {
+   "match": "vermont",
+   "other": "vrmont"
+ },
+ {
+   "match": "vermont",
+   "other": "vemont"
+ },
+ {
+   "match": "vermont",
+   "other": "vermint"
+ },
+ {
+   "match": "vermont",
+   "other": "vormont"
+ },
+ {
+   "match": "vermont",
+   "other": "vertmont"
+ },
+ {
+   "match": "vermont",
+   "other": "vermonts"
+ },
+ {
+   "match": "vermont",
+   "other": "vernon"
+ },
+ {
+   "match": "virginia",
+   "other": "virginia"
+ },
+ {
+   "match": "virginia",
+   "other": "va"
+ },
+ {
+   "match": "virginia",
+   "other": "vaa"
+ },
+ {
+   "match": "virginia",
+   "other": "vir"
+ },
+ {
+   "match": "virginia",
+   "other": "virg"
+ },
+ {
+   "match": "virginia",
+   "other": "virgi"
+ },
+ {
+   "match": "virginia",
+   "other": "virgina"
+ },
+ {
+   "match": "virginia",
+   "other": "vergin"
+ },
+ {
+   "match": "virginia",
+   "other": "viriginia"
+ },
+ {
+   "match": "virginia",
+   "other": "virginya"
+ },
+ {
+   "match": "virginia",
+   "other": "virgian"
+ },
+ {
+   "match": "virginia",
+   "other": "vrigina"
+ },
+ {
+   "match": "virginia",
+   "other": "viringia"
+ },
+ {
+   "match": "virginia",
+   "other": "viagria"
+ },
+ {
+   "match": "virginia",
+   "other": "virign"
+ },
+ {
+   "match": "virginia",
+   "other": "virgiania"
+ },
+ {
+   "match": "virginia",
+   "other": "vrginia"
+ },
+ {
+   "match": "virginia",
+   "other": "virgiana"
+ },
+ {
+   "match": "virginia",
+   "other": "verginia"
+ },
+ {
+   "match": "virginia",
+   "other": "vagania"
+ },
+ {
+   "match": "virginia",
+   "other": "virginaia"
+ },
+ {
+   "match": "virginia",
+   "other": "virginin"
+ },
+ {
+   "match": "virginia",
+   "other": "virginnia"
+ },
+ {
+   "match": "virginia",
+   "other": "virginai"
+ },
+ {
+   "match": "virginia",
+   "other": "vaginia"
+ },
+ {
+   "match": "virginia",
+   "other": "virgia"
+ },
+ {
+   "match": "virginia",
+   "other": "virgine"
+ },
+ {
+   "match": "virginia",
+   "other": "virgan"
+ },
+ {
+   "match": "virginia",
+   "other": "virigin"
+ },
+ {
+   "match": "virginia",
+   "other": "virginina"
+ },
+ {
+   "match": "virginia",
+   "other": "vergina"
+ },
+ {
+   "match": "virginia",
+   "other": "vargin"
+ },
+ {
+   "match": "virginia",
+   "other": "vigania"
+ },
+ {
+   "match": "virginia",
+   "other": "vigina"
+ },
+ {
+   "match": "virginia",
+   "other": "vigin"
+ },
+ {
+   "match": "virginia",
+   "other": "virgen"
+ },
+ {
+   "match": "virginia",
+   "other": "virignia"
+ },
+ {
+   "match": "virginia",
+   "other": "virgnina"
+ },
+ {
+   "match": "virginia",
+   "other": "virgaina"
+ },
+ {
+   "match": "virginia",
+   "other": "vegina"
+ },
+ {
+   "match": "virginia",
+   "other": "viginian"
+ },
+ {
+   "match": "virginia",
+   "other": "virgina"
+ },
+ {
+   "match": "virginia",
+   "other": "virigina"
+ },
+ {
+   "match": "virginia",
+   "other": "virgnia"
+ },
+ {
+   "match": "virginia",
+   "other": "vagaina"
+ },
+ {
+   "match": "virginia",
+   "other": "virgiinia"
+ },
+ {
+   "match": "virginia",
+   "other": "vargin"
+ },
+ {
+   "match": "virginia",
+   "other": "virgini"
+ },
+ {
+   "match": "virginia",
+   "other": "virginain"
+ },
+ {
+   "match": "virginia",
+   "other": "vriginia"
+ },
+ {
+   "match": "virginia",
+   "other": "varginia"
+ },
+ {
+   "match": "washington",
+   "other": "washington"
+ },
+ {
+   "match": "washington",
+   "other": "wa"
+ },
+ {
+   "match": "washington",
+   "other": "waa"
+ },
+ {
+   "match": "washington",
+   "other": "was"
+ },
+ {
+   "match": "washington",
+   "other": "wash"
+ },
+ {
+   "match": "washington",
+   "other": "washi"
+ },
+ {
+   "match": "washington",
+   "other": "washin"
+ },
+ {
+   "match": "washington",
+   "other": "washing"
+ },
+ {
+   "match": "washington",
+   "other": "washingt"
+ },
+ {
+   "match": "washington",
+   "other": "washingto"
+ },
+ {
+   "match": "washington",
+   "other": "washiongton"
+ },
+ {
+   "match": "washington",
+   "other": "washingston"
+ },
+ {
+   "match": "washington",
+   "other": "washingtons"
+ },
+ {
+   "match": "washington",
+   "other": "wasington"
+ },
+ {
+   "match": "washington",
+   "other": "washingotn"
+ },
+ {
+   "match": "washington",
+   "other": "washiington"
+ },
+ {
+   "match": "washington",
+   "other": "washingtoin"
+ },
+ {
+   "match": "washington",
+   "other": "waashington"
+ },
+ {
+   "match": "washington",
+   "other": "washintion"
+ },
+ {
+   "match": "washington",
+   "other": "wasinton"
+ },
+ {
+   "match": "washington",
+   "other": "wasnington"
+ },
+ {
+   "match": "washington",
+   "other": "washnton"
+ },
+ {
+   "match": "washington",
+   "other": "washingn"
+ },
+ {
+   "match": "washington",
+   "other": "washingtion"
+ },
+ {
+   "match": "washington",
+   "other": "wasshington"
+ },
+ {
+   "match": "washington",
+   "other": "washinghton"
+ },
+ {
+   "match": "washington",
+   "other": "washingon"
+ },
+ {
+   "match": "washington",
+   "other": "washngton"
+ },
+ {
+   "match": "washington",
+   "other": "wasgington"
+ },
+ {
+   "match": "washington",
+   "other": "washionton"
+ },
+ {
+   "match": "washington",
+   "other": "washinton"
+ },
+ {
+   "match": "washington",
+   "other": "washingtoh"
+ },
+ {
+   "match": "washington",
+   "other": "washingtn"
+ },
+ {
+   "match": "washington",
+   "other": "wahsington"
+ },
+ {
+   "match": "washington",
+   "other": "washiton"
+ },
+ {
+   "match": "washington",
+   "other": "washintong"
+ },
+ {
+   "match": "washington",
+   "other": "washingtin"
+ },
+ {
+   "match": "washington",
+   "other": "washingtom"
+ },
+ {
+   "match": "washington",
+   "other": "washigton"
+ },
+ {
+   "match": "washington",
+   "other": "washingnton"
+ },
+ {
+   "match": "washington",
+   "other": "washingtonn"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virginia"
+ },
+ {
+   "match": "west virginia",
+   "other": "wv"
+ },
+ {
+   "match": "west virginia",
+   "other": "wvv"
+ },
+ {
+   "match": "west virginia",
+   "other": "w virginia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west va"
+ },
+ {
+   "match": "west virginia",
+   "other": "wes virginia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west v"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vi"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vir"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virg"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgi"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgin"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgini"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgina"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vergin"
+ },
+ {
+   "match": "west virginia",
+   "other": "west viriginia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virginya"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgian"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vrigina"
+ },
+ {
+   "match": "west virginia",
+   "other": "west viringia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west viagria"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virign"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgiania"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vrginia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west irgiana"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vegitaian"
+ },
+ {
+   "match": "west virginia",
+   "other": "west verginia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vagania"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virginaia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virginin"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virginnia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virginai"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vaginia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgine"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgan"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vercina"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virigin"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virging"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virginina"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vergina"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vargin"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vigania"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vigina"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vigin"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgen"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virignia"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgnina"
+ },
+ {
+   "match": "west virginia",
+   "other": "west virgaina"
+ },
+ {
+   "match": "west virginia",
+   "other": "west vegina"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wi"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wis"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wii"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisc"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisco"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscon"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscons"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconsi"
+ },
+ {
+   "match": "wisconsin",
+   "other": "winc"
+ },
+ {
+   "match": "wisconsin",
+   "other": "winsconsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wasgington"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconsion"
+ },
+ {
+   "match": "wisconsin",
+   "other": "weisconson"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscoson"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconsins"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiconsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisonconsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconsi"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wissonsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisonsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconssin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscoinsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscosin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscsonsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscousin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisocnsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconnsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisoncin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconsis"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscounsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconsen"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wisconcin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscosnsin"
+ },
+ {
+   "match": "wisconsin",
+   "other": "willcontinue"
+ },
+ {
+   "match": "wisconsin",
+   "other": "wiscinsin"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyoming"
+ },
+ {
+   "match": "wyoming",
+   "other": "wy"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyo"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyy"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyom"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyomi"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyomin"
+ },
+ {
+   "match": "wyoming",
+   "other": "womin"
+ },
+ {
+   "match": "wyoming",
+   "other": "wymoing"
+ },
+ {
+   "match": "wyoming",
+   "other": "whyoming"
+ },
+ {
+   "match": "wyoming",
+   "other": "waming"
+ },
+ {
+   "match": "wyoming",
+   "other": "voming"
+ },
+ {
+   "match": "wyoming",
+   "other": "youing"
+ },
+ {
+   "match": "wyoming",
+   "other": "yoming"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyhoming"
+ },
+ {
+   "match": "wyoming",
+   "other": "yoing"
+ },
+ {
+   "match": "wyoming",
+   "other": "woming"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyomy"
+ },
+ {
+   "match": "wyoming",
+   "other": "womein"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyming"
+ },
+ {
+   "match": "wyoming",
+   "other": "womone"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyomings"
+ },
+ {
+   "match": "wyoming",
+   "other": "vomiing"
+ },
+ {
+   "match": "wyoming",
+   "other": "wyomming"
+ },
+ {
+   "match": "wyoming",
+   "other": "wioming"
+ }
+]
+}

@@ -15,6 +15,9 @@ let stateInfo = JSON.parse(rawdata)
 rawdata = fs.readFileSync('questions.json')
 let questions = JSON.parse(rawdata)
 
+rawdata =fs.readFileSync('typos.json')
+let typos = JSON.parse(rawdata)
+
 
 // Require the fastify framework and instantiate it
 const fastify = require("fastify")({
@@ -23,37 +26,54 @@ const fastify = require("fastify")({
 });
 
 /**
- * Our API endpoint test for state name
+ * Our API endpoint test for getting the state name
  *
  * Reply back some info 
  */
-fastify.get("/state", function (request, reply) {
+ fastify.get("/state", function (request, reply) {
   
   console.log(request.query); // click the logs button at the bottom of the screen to keep an eye on this
 
-  let stateFromUrl = request.query['{last_user_msg}'];  // parse out the ?variableFromBotsify=something from the URL
+  let enteredText = request.query['{last_user_msg}'];  // parse out the ?variableFromBotsify=something from the URL
+  console.log(enteredText)
   
-  // now that we have a state, grab the right info from the JSON file
-  let requestedState = stateInfo.states.filter(s => s.state.toLowerCase() == stateFromUrl)[0] 
-  
-  //console.log(stateFromUrl);
-  // console.log(requestedState)
+  let enteredTextNoCap = enteredText.toLowerCase()
+   
+  if (typos.options.filter(t => t.other.toLowerCase()).includes(enteredTextNoCap)) {
+      let typoState = typos.options.filter(t => t.other.toLowerCase() == enteredTextNoCap)[0]
+      let stateFromUrl = typoState['match']
 
-  let myData = [{  // relay back the info parsed from the url
-    text: "Looks like you're in..."+ stateFromUrl
-  },
-  {
-    text: requestedState['description']
-  }];
+      // now that we have a state, grab the right info from the JSON file
+      let requestedState = stateInfo.states.filter(s => s.state.toLowerCase() == stateFromUrl)[0] 
 
+      
+      function toTitleCase(str) {
+      str = str.toLowerCase().split(' ');
+      for (var i = 0; i < str.length; i++) {
+        str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1);
+        }
+        return str.join(' ');
+        }
+      
+      let myData = [{  // relay back the info parsed from the url
+        text: "Looks like you're in..."+ toTitleCase(stateFromUrl)
+      },
+      {
+        text: requestedState['description']
+      }];
 
-  
-  // console.log(myData);
+      reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
+      reply.send(myData);
+    
+  } else {
+      let myData = [{  // relay back the info parsed from the url
+        text: "Oops..."
+      }];
 
-  reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
-  reply.send(myData);  // send the data back to the server that asked
+      reply.header("Content-Type", "application/json"); // tell the computer that asked that this is JSON
+      reply.send(myData);
+  }
 });
-
 
 /**
  * Send back with the question text based on the questionID
@@ -192,7 +212,7 @@ fastify.get("/handle-answer", function (request, reply) {
 
 
 /**
- * Deal with sending main-id information based on stateInfo sheet
+ * Deal with sending alt-id information based on stateInfo sheet
  */
  fastify.get("/alt-id", function (request, reply) {
   
@@ -214,7 +234,7 @@ fastify.get("/handle-answer", function (request, reply) {
 
 
 /**
- * Deal with sending main-id information based on stateInfo sheet
+ * Deal with sending registration information based on stateInfo sheet
  */
  fastify.get("/registration", function (request, reply) {
   
@@ -238,7 +258,7 @@ fastify.get("/handle-answer", function (request, reply) {
 
 
 /**
- * Deal with sending main-id information based on stateInfo sheet
+ * Deal with sending early voting information based on stateInfo sheet
  */
  fastify.get("/early", function (request, reply) {
   
