@@ -39,7 +39,7 @@ const fastify = require("fastify")({
   
   let enteredTextNoCap = enteredText.toLowerCase()
    
-  if (typos.options.filter(t => t.other.toLowerCase()).includes(enteredTextNoCap)) {
+  if (typos.options.filter(t => t.other.toLowerCase().includes(enteredTextNoCap))) {
       let typoState = typos.options.filter(t => t.other.toLowerCase() == enteredTextNoCap)[0]
       let stateFromUrl = typoState['match']
 
