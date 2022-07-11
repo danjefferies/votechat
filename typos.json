@@ -4176,9 +4176,13 @@
    "other": "ute"
  },
  {
-   "match": "utah",
-   "other": "uttar"
- },
+  "match": "utah",
+  "other": "utha"
+},
+{
+  "match": "utah",
+  "other": "yutah"
+},
  {
    "match": "utah",
    "other": "utes"

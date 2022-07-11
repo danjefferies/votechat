@@ -56,7 +56,7 @@ const fastify = require("fastify")({
         }
       
       let myData = [{  // relay back the info parsed from the url
-        text: "Looks like you're in..."+ toTitleCase(stateFromUrl)
+        text: "Looks like you're in... "+ toTitleCase(stateFromUrl)
       },
       {
         text: requestedState['description']
