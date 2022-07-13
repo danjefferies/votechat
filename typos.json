@@ -1681,10 +1681,6 @@
  },
  {
    "match": "maine",
-   "other": "ma"
- },
- {
-   "match": "maine",
    "other": "men"
  },
  {
@@ -2200,16 +2196,12 @@
    "other": "missosuri"
  },
  {
-   "match": "missouri",
-   "other": "missoun"
- },
- {
    "match": "montana",
    "other": "montana"
  },
  {
    "match": "montana",
-   "other": "mn"
+   "other": "mt"
  },
  {
    "match": "montana",
