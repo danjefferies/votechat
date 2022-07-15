@@ -149,10 +149,15 @@ fastify.get("/handle-answer", function (request, reply) {
   
   console.log(request.query); 
   
-  let userState = request.query['{user/state}[0]'];
-  console.log(userState);
-  let requestedState = stateInfo.states.filter(l => l.state.toLowerCase() == userState)[0] 
-  console.log(requestedState);
+  let enteredText = request.query['{user/state}[0]'];  // parse out the ?variableFromBotsify=something from the URL
+  console.log(enteredText)
+  
+  let enteredTextNoCap = enteredText.toLowerCase()
+  let typoState = typos.options.filter(t => t.other.toLowerCase() == enteredTextNoCap)[0]
+  let stateFromUrl = typoState['match']
+
+  // now that we have a state, grab the right info from the JSON file
+  let requestedState = stateInfo.states.filter(s => s.state.toLowerCase() == stateFromUrl)[0] 
   
   let myData = [{text: requestedState['laws_prep']}, {text: requestedState['restrictive']},
                {text: requestedState['expansive']}]; 

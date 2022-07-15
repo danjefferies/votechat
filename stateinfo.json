@@ -353,7 +353,7 @@
    "mail_in_excuse": "You must send in an application 60 days before Election Day! If you are:\n\n• 65 or older\n• Physically unable or disabled\n• Absent from the state or parish (during early voting too)\n• A student/professor living outside the parish\n• Moved to a parish over 100+ miles away\n• Confined to an institution, but not imprisoned nor convicted\n• Expect to be hospitalized on Election Day",
    "mail_deadline": "Your ballot can be requested by Nov. 4 and must be received by Nov. 7! 📩",
    "laws_prep": "Woah! 😳 Looks like your state has a mix of expansive and restrictive laws. This means...",
-   "restrictive": "❌ Higher risk of being accidentally deleted from the registration list",
+   "restrictive": "❌ Higher risk of being deleted from the registration list",
    "expansive": "✅ Easier to vote early\n✅ Easier to register to vote\n✅ Voter lists are better maintained ✏️"
  },
  {
@@ -421,7 +421,7 @@
    "mail_in_excuse": "You do not need to provide an excuse and...",
    "mail_deadline": "Your ballot can be requested\n• In person by Nov. 7\n• Mail/online by Nov. 4\n\nAnd must be received by Election Day! 📩",
    "laws_prep": "Uh-oh 😱 Looks like there are some laws that might restrict voting access. This means...",
-   "restrictive": "❌ Harsher voter ID requirements\n❌ Higher risk of accidentally being deleted from the registration list",
+   "restrictive": "❌ Harsher voter ID requirements\n❌ Higher risk of being deleted from the registration list",
    "expansive": "There are no new expansive laws in your state."
  },
  {
@@ -540,7 +540,7 @@
    "mail_in_excuse": "If you are:\n\n• Absent from the county\n• Religious beliefs prevent you from coming\n• Physically unable, ill or have a disability\n• An employment obligation\n• In active military service",
    "mail_deadline": "We recommend requesting your ballot in person or by mail by Nov. 1, since it must be received by Election Day! 📩",
    "laws_prep": "Woah! 😳 Looks like your state has a mix of expansive and restrictive laws. This means...",
-   "restrictive": "❌ Harsher voter ID requirements\n❌ Stop Election Day registration\n❌ Higher risk of accidentally being deleted from the registration list",
+   "restrictive": "❌ Harsher voter ID requirements\n❌ Stop Election Day registration\n❌ Higher risk of being deleted from the registration list",
    "expansive": "✅ Easier for people in jail to vote\n✅ Greater access for voters with disabilities ♿"
  },
  {
@@ -812,7 +812,7 @@
    "mail_in_excuse": "If you are: \n\n• 65 or older\n• Absent from the county\n• Physically unable, ill or have a disability\n• Confined in jail",
    "mail_deadline": "Your ballot can be requested by Oct. 28 and must be postmarked by Election Day! 📩 It must be received by 5pm on Nov. 9!",
    "laws_prep": "Uh-oh 😱 Looks like there are some laws that might restrict voting access. This means...",
-   "restrictive": "❌ Harder to vote early ⏰\n❌ Harsher voter ID requirements\n❌ Reduced polling place locations or hours\n❌ Stricter signature requirements for mail voting\n❌ Less access for voters with disabilities\n❌ Limiting assistance when returning your ballot\n❌ Allow partisan reviews of election results 🤔\n❌ If you didn't request a mail ballot, you might not get one\n❌ Higher risk of accidentally being deleted from the registration list",
+   "restrictive": "❌ Harder to vote early ⏰\n❌ Harsher voter ID requirements\n❌ Reduced polling place locations or hours\n❌ Stricter signature requirements for mail voting\n❌ Less access for voters with disabilities\n❌ Limiting assistance when returning your ballot\n❌ Allow partisan reviews of election results 🤔\n❌ If you didn't request a mail ballot, you might not get one\n❌ Higher risk of being deleted from the registration list",
    "expansive": "There are no new expansive laws in your state."
  },
  {
@@ -846,7 +846,7 @@
    "mail_in_excuse": "You do not need to provide an excuse and...",
    "mail_deadline": "Your ballot must be requested by mail by Nov. 1 if you are changing your address and received by Election Day! 📩 If mailed, it must be postmarked by Nov. 7!",
    "laws_prep": "Uh-oh 😱 Looks like there are some laws that might restrict voting access. This means...",
-   "restrictive": "❌ Higher risk of accidentally being deleted from the registration list",
+   "restrictive": "❌ Higher risk of being deleted from the registration list",
    "expansive": "There are no new expansive laws in your state."
  },
  {
