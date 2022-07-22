@@ -744,53 +744,61 @@
    "other": "delawarre"
  },
  {
-   "match": "district of columbia",
+   "match": "washington, d.c.",
    "other": "district of columbia"
  },
  {
-   "match": "district of columbia",
+  "match": "washington, d.c.",
    "other": "dc"
  },
  {
-   "match": "district of columbia",
+  "match": "washington, d.c.",
    "other": "washington dc"
  },
  {
-   "match": "district of columbia",
+  "match": "washington, d.c.",
    "other": "washingtondc"
  },
  {
-   "match": "district of columbia",
-   "other": "district"
+  "match": "washington, d.c.",
+   "other": "washington d.c"
  },
  {
-   "match": "district of columbia",
-   "other": "columbia"
+  "match": "washington, d.c.",
+   "other": "washington, dc"
  },
  {
-   "match": "district of columbia",
-   "other": "wash dc"
+  "match": "washington, d.c.",
+   "other": "washington, d.c"
  },
  {
-   "match": "district of columbia",
+  "match": "washington, d.c.",
+   "other": "washington, dc."
+ },
+ {
+  "match": "washington, d.c.",
+   "other": "usa"
+ },
+ {
+  "match": "washington, d.c.",
    "other": "dca"
  },
  {
-   "match": "district of columbia",
-   "other": "wdc"
- },
- {
-   "match": "district of columbia",
+   "match": "washington, d.c.",
    "other": "washintondc"
  },
  {
-   "match": "district of columbia",
+   "match": "washington, d.c.",
    "other": "wasington dc"
  },
  {
-   "match": "district of columbia",
+   "match": "washington, d.c.",
    "other": "district of colombia"
  },
+ {
+  "match": "washington, d.c.",
+  "other": "district of colombia"
+},
  {
    "match": "florida",
    "other": "florida"
